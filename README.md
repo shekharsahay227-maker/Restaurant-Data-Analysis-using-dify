@@ -136,8 +136,3 @@ Start → Question Classifier → Default Answer
 Feel free to fork this repository and improve the workflow by adding new pipelines enhancing prompts or integrating advanced analytics features.
 
 ---
-
-## Contact
-
-**Shekhar Sahay**  
-LinkedIn: https://www.linkedin.com/in/shekhar-sahay-25673742
