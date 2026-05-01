@@ -1,0 +1,1400 @@
+﻿Date,Order_ID,Table_Number,Server_Name,Item_Name,Category,Quantity,Unit_Price,Unit_Cost,Total_Sales,Total_Cost,Payment_Method
+2025-02-22,2001,7,Ava,Pepperoni Pizza,Main Course,2,16,7,32,14,Debit Card
+2025-02-22,2001,7,Ava,Coffee,Beverage,1,4,1.2,4,1.2,Debit Card
+2025-02-22,2001,7,Ava,Caesar Salad,Starter,2,9,4,18,8,Debit Card
+2025-02-22,2001,7,Ava,French Fries,Side,3,6,2.5,18,7.5,Debit Card
+2025-02-22,2001,7,Ava,Iced Tea,Beverage,2,3,1,6,2,Debit Card
+2025-06-03,2002,8,Liam,Iced Tea,Beverage,2,3,1,6,2,Mobile Pay
+2025-06-03,2002,8,Liam,Pepperoni Pizza,Main Course,2,16,7,32,14,Mobile Pay
+2025-06-03,2002,8,Liam,Garlic Bread,Starter,2,7,3,14,6,Mobile Pay
+2025-06-03,2002,8,Liam,Soft Drink,Beverage,3,3,1,9,3,Mobile Pay
+2025-06-03,2002,8,Liam,Pepperoni Pizza,Main Course,1,16,7,16,7,Mobile Pay
+2025-06-03,2002,8,Liam,Tiramisu,Dessert,3,8,3.5,24,10.5,Mobile Pay
+2025-04-08,2003,19,Ava,French Fries,Side,1,6,2.5,6,2.5,Credit Card
+2025-04-08,2003,19,Ava,Margherita Pizza,Main Course,2,14,6,28,12,Credit Card
+2025-04-08,2003,19,Ava,Cheeseburger,Main Course,2,13,6,26,12,Credit Card
+2025-04-08,2003,19,Ava,French Fries,Side,1,6,2.5,6,2.5,Credit Card
+2025-05-21,2004,4,Emma,Iced Tea,Beverage,3,3,1,9,3,Cash
+2025-05-21,2004,4,Emma,Caesar Salad,Starter,1,9,4,9,4,Cash
+2025-05-15,2005,3,Lucas,Cheeseburger,Main Course,2,13,6,26,12,Cash
+2025-05-15,2005,3,Lucas,Pepperoni Pizza,Main Course,3,16,7,48,21,Cash
+2025-05-15,2005,3,Lucas,Iced Tea,Beverage,2,3,1,6,2,Cash
+2025-05-15,2005,3,Lucas,French Fries,Side,3,6,2.5,18,7.5,Cash
+2025-05-15,2005,3,Lucas,Cheeseburger,Main Course,2,13,6,26,12,Cash
+2025-05-15,2005,3,Lucas,Grilled Salmon,Main Course,1,20,10,20,10,Cash
+2025-02-22,2006,19,Olivia,Iced Tea,Beverage,3,3,1,9,3,Credit Card
+2025-02-22,2006,19,Olivia,Margherita Pizza,Main Course,1,14,6,14,6,Credit Card
+2025-02-22,2006,19,Olivia,Chicken Wings,Starter,1,11,5,11,5,Credit Card
+2025-02-22,2006,19,Olivia,Iced Tea,Beverage,3,3,1,9,3,Credit Card
+2025-02-22,2006,19,Olivia,Chocolate Lava Cake,Dessert,2,9,4,18,8,Credit Card
+2025-02-22,2006,19,Olivia,Iced Tea,Beverage,3,3,1,9,3,Credit Card
+2025-05-30,2007,2,Ava,Chicken Wings,Starter,1,11,5,11,5,Cash
+2025-05-30,2007,2,Ava,Chicken Wings,Starter,3,11,5,33,15,Cash
+2025-05-30,2007,2,Ava,Caesar Salad,Starter,2,9,4,18,8,Cash
+2025-05-30,2007,2,Ava,Caesar Salad,Starter,3,9,4,27,12,Cash
+2025-05-30,2007,2,Ava,Caesar Salad,Starter,2,9,4,18,8,Cash
+2025-05-30,2007,2,Ava,Pepperoni Pizza,Main Course,1,16,7,16,7,Cash
+2025-02-07,2008,21,Sophia,Chocolate Lava Cake,Dessert,1,9,4,9,4,Mobile Pay
+2025-02-07,2008,21,Sophia,Pasta Alfredo,Main Course,2,15,6,30,12,Mobile Pay
+2025-02-07,2008,21,Sophia,Iced Tea,Beverage,1,3,1,3,1,Mobile Pay
+2025-06-01,2009,1,Mason,Cheeseburger,Main Course,3,13,6,39,18,Debit Card
+2025-06-01,2009,1,Mason,Chicken Wings,Starter,2,11,5,22,10,Debit Card
+2025-03-06,2010,5,Noah,Coffee,Beverage,2,4,1.2,8,2.4,Cash
+2025-03-06,2010,5,Noah,Margherita Pizza,Main Course,1,14,6,14,6,Cash
+2025-03-06,2010,5,Noah,French Fries,Side,3,6,2.5,18,7.5,Cash
+2025-03-06,2010,5,Noah,Tiramisu,Dessert,3,8,3.5,24,10.5,Cash
+2025-04-20,2011,14,Ethan,Chicken Wings,Starter,3,11,5,33,15,Credit Card
+2025-04-20,2011,14,Ethan,Chicken Wings,Starter,1,11,5,11,5,Credit Card
+2025-02-24,2012,23,Ethan,Pasta Alfredo,Main Course,3,15,6,45,18,Credit Card
+2025-02-24,2012,23,Ethan,French Fries,Side,3,6,2.5,18,7.5,Credit Card
+2025-02-24,2012,23,Ethan,Garlic Bread,Starter,2,7,3,14,6,Credit Card
+2025-04-17,2013,16,Sophia,Chocolate Lava Cake,Dessert,3,9,4,27,12,Cash
+2025-04-17,2013,16,Sophia,Pepperoni Pizza,Main Course,1,16,7,16,7,Cash
+2025-04-17,2013,16,Sophia,Garlic Bread,Starter,3,7,3,21,9,Cash
+2025-04-17,2013,16,Sophia,Margherita Pizza,Main Course,2,14,6,28,12,Cash
+2025-04-17,2013,16,Sophia,Chicken Wings,Starter,3,11,5,33,15,Cash
+2025-01-26,2014,22,Olivia,French Fries,Side,1,6,2.5,6,2.5,Cash
+2025-01-26,2014,22,Olivia,French Fries,Side,3,6,2.5,18,7.5,Cash
+2025-01-26,2014,22,Olivia,Tiramisu,Dessert,1,8,3.5,8,3.5,Cash
+2025-01-26,2014,22,Olivia,Garlic Bread,Starter,3,7,3,21,9,Cash
+2025-01-26,2014,22,Olivia,Margherita Pizza,Main Course,3,14,6,42,18,Cash
+2025-01-26,2014,22,Olivia,Iced Tea,Beverage,1,3,1,3,1,Cash
+2025-06-25,2015,4,Emma,Cheeseburger,Main Course,1,13,6,13,6,Debit Card
+2025-06-25,2015,4,Emma,Grilled Salmon,Main Course,1,20,10,20,10,Debit Card
+2025-06-25,2015,4,Emma,Caesar Salad,Starter,3,9,4,27,12,Debit Card
+2025-06-25,2015,4,Emma,Pasta Alfredo,Main Course,3,15,6,45,18,Debit Card
+2025-06-25,2015,4,Emma,Chocolate Lava Cake,Dessert,2,9,4,18,8,Debit Card
+2025-03-02,2016,25,Olivia,Caesar Salad,Starter,1,9,4,9,4,Cash
+2025-03-02,2016,25,Olivia,Margherita Pizza,Main Course,2,14,6,28,12,Cash
+2025-03-02,2016,25,Olivia,French Fries,Side,2,6,2.5,12,5,Cash
+2025-03-02,2016,25,Olivia,Iced Tea,Beverage,3,3,1,9,3,Cash
+2025-03-02,2016,25,Olivia,Margherita Pizza,Main Course,3,14,6,42,18,Cash
+2025-04-10,2017,7,Ethan,Margherita Pizza,Main Course,1,14,6,14,6,Mobile Pay
+2025-04-10,2017,7,Ethan,Grilled Salmon,Main Course,3,20,10,60,30,Mobile Pay
+2025-04-10,2017,7,Ethan,Caesar Salad,Starter,2,9,4,18,8,Mobile Pay
+2025-04-10,2017,7,Ethan,French Fries,Side,2,6,2.5,12,5,Mobile Pay
+2025-04-10,2017,7,Ethan,Cheeseburger,Main Course,1,13,6,13,6,Mobile Pay
+2025-06-19,2018,2,Olivia,Caesar Salad,Starter,2,9,4,18,8,Debit Card
+2025-06-19,2018,2,Olivia,Margherita Pizza,Main Course,1,14,6,14,6,Debit Card
+2025-06-19,2018,2,Olivia,Garlic Bread,Starter,1,7,3,7,3,Debit Card
+2025-06-19,2018,2,Olivia,Chicken Wings,Starter,1,11,5,11,5,Debit Card
+2025-06-03,2019,8,Emma,Soft Drink,Beverage,1,3,1,3,1,Debit Card
+2025-06-03,2019,8,Emma,Margherita Pizza,Main Course,3,14,6,42,18,Debit Card
+2025-06-03,2019,8,Emma,Cheeseburger,Main Course,3,13,6,39,18,Debit Card
+2025-01-27,2020,2,Liam,French Fries,Side,1,6,2.5,6,2.5,Cash
+2025-01-27,2020,2,Liam,Margherita Pizza,Main Course,1,14,6,14,6,Cash
+2025-01-27,2020,2,Liam,Caesar Salad,Starter,2,9,4,18,8,Cash
+2025-01-27,2020,2,Liam,Pepperoni Pizza,Main Course,2,16,7,32,14,Cash
+2025-03-10,2021,8,Sophia,Pepperoni Pizza,Main Course,1,16,7,16,7,Debit Card
+2025-03-10,2021,8,Sophia,Coffee,Beverage,3,4,1.2,12,3.6,Debit Card
+2025-03-10,2021,8,Sophia,Grilled Salmon,Main Course,2,20,10,40,20,Debit Card
+2025-03-10,2021,8,Sophia,French Fries,Side,1,6,2.5,6,2.5,Debit Card
+2025-03-25,2022,5,Noah,Margherita Pizza,Main Course,1,14,6,14,6,Cash
+2025-03-25,2022,5,Noah,Pepperoni Pizza,Main Course,2,16,7,32,14,Cash
+2025-03-25,2022,5,Noah,Tiramisu,Dessert,2,8,3.5,16,7,Cash
+2025-03-25,2022,5,Noah,Caesar Salad,Starter,1,9,4,9,4,Cash
+2025-03-25,2022,5,Noah,Caesar Salad,Starter,2,9,4,18,8,Cash
+2025-06-27,2023,14,Noah,Soft Drink,Beverage,3,3,1,9,3,Debit Card
+2025-06-27,2023,14,Noah,Caesar Salad,Starter,1,9,4,9,4,Debit Card
+2025-06-27,2023,14,Noah,Tiramisu,Dessert,2,8,3.5,16,7,Debit Card
+2025-01-23,2024,21,Liam,French Fries,Side,3,6,2.5,18,7.5,Mobile Pay
+2025-01-23,2024,21,Liam,Chocolate Lava Cake,Dessert,3,9,4,27,12,Mobile Pay
+2025-01-23,2024,21,Liam,Iced Tea,Beverage,1,3,1,3,1,Mobile Pay
+2025-02-22,2025,19,Olivia,Garlic Bread,Starter,3,7,3,21,9,Credit Card
+2025-02-22,2025,19,Olivia,Chicken Wings,Starter,3,11,5,33,15,Credit Card
+2025-02-22,2025,19,Olivia,Soft Drink,Beverage,2,3,1,6,2,Credit Card
+2025-02-22,2025,19,Olivia,Soft Drink,Beverage,2,3,1,6,2,Credit Card
+2025-02-22,2025,19,Olivia,Chocolate Lava Cake,Dessert,1,9,4,9,4,Credit Card
+2025-02-16,2026,16,Mason,Iced Tea,Beverage,2,3,1,6,2,Cash
+2025-02-16,2026,16,Mason,Garlic Bread,Starter,3,7,3,21,9,Cash
+2025-02-16,2026,16,Mason,Pasta Alfredo,Main Course,1,15,6,15,6,Cash
+2025-05-01,2027,8,Sophia,Caesar Salad,Starter,1,9,4,9,4,Credit Card
+2025-05-01,2027,8,Sophia,Pepperoni Pizza,Main Course,1,16,7,16,7,Credit Card
+2025-05-01,2027,8,Sophia,Tiramisu,Dessert,1,8,3.5,8,3.5,Credit Card
+2025-05-01,2027,8,Sophia,Pasta Alfredo,Main Course,2,15,6,30,12,Credit Card
+2025-05-01,2027,8,Sophia,Garlic Bread,Starter,1,7,3,7,3,Credit Card
+2025-05-01,2027,8,Sophia,Cheeseburger,Main Course,1,13,6,13,6,Credit Card
+2025-04-18,2028,3,Ethan,Garlic Bread,Starter,1,7,3,7,3,Cash
+2025-04-18,2028,3,Ethan,Caesar Salad,Starter,3,9,4,27,12,Cash
+2025-04-18,2028,3,Ethan,Tiramisu,Dessert,2,8,3.5,16,7,Cash
+2025-04-18,2028,3,Ethan,French Fries,Side,3,6,2.5,18,7.5,Cash
+2025-04-18,2028,3,Ethan,French Fries,Side,3,6,2.5,18,7.5,Cash
+2025-04-18,2028,3,Ethan,Margherita Pizza,Main Course,2,14,6,28,12,Cash
+2025-04-05,2029,9,Ava,Chocolate Lava Cake,Dessert,2,9,4,18,8,Cash
+2025-04-05,2029,9,Ava,Coffee,Beverage,3,4,1.2,12,3.6,Cash
+2025-04-05,2029,9,Ava,Coffee,Beverage,3,4,1.2,12,3.6,Cash
+2025-04-05,2029,9,Ava,Iced Tea,Beverage,2,3,1,6,2,Cash
+2025-05-03,2030,7,Emma,Iced Tea,Beverage,2,3,1,6,2,Debit Card
+2025-05-03,2030,7,Emma,French Fries,Side,1,6,2.5,6,2.5,Debit Card
+2025-06-30,2031,23,Ava,Chocolate Lava Cake,Dessert,2,9,4,18,8,Mobile Pay
+2025-06-30,2031,23,Ava,Garlic Bread,Starter,3,7,3,21,9,Mobile Pay
+2025-06-30,2031,23,Ava,Coffee,Beverage,3,4,1.2,12,3.6,Mobile Pay
+2025-04-02,2032,23,Mason,Pasta Alfredo,Main Course,2,15,6,30,12,Mobile Pay
+2025-04-02,2032,23,Mason,French Fries,Side,1,6,2.5,6,2.5,Mobile Pay
+2025-04-02,2032,23,Mason,Tiramisu,Dessert,3,8,3.5,24,10.5,Mobile Pay
+2025-04-02,2032,23,Mason,Soft Drink,Beverage,2,3,1,6,2,Mobile Pay
+2025-04-02,2032,23,Mason,Chocolate Lava Cake,Dessert,1,9,4,9,4,Mobile Pay
+2025-06-24,2033,6,Lucas,Cheeseburger,Main Course,3,13,6,39,18,Cash
+2025-06-24,2033,6,Lucas,Chicken Wings,Starter,2,11,5,22,10,Cash
+2025-06-24,2033,6,Lucas,Iced Tea,Beverage,1,3,1,3,1,Cash
+2025-06-24,2033,6,Lucas,Pasta Alfredo,Main Course,3,15,6,45,18,Cash
+2025-05-09,2034,8,Olivia,Chicken Wings,Starter,2,11,5,22,10,Debit Card
+2025-05-09,2034,8,Olivia,Grilled Salmon,Main Course,1,20,10,20,10,Debit Card
+2025-05-09,2034,8,Olivia,Iced Tea,Beverage,1,3,1,3,1,Debit Card
+2025-05-09,2034,8,Olivia,Margherita Pizza,Main Course,2,14,6,28,12,Debit Card
+2025-05-09,2034,8,Olivia,Pasta Alfredo,Main Course,2,15,6,30,12,Debit Card
+2025-05-09,2034,8,Olivia,Margherita Pizza,Main Course,2,14,6,28,12,Debit Card
+2025-04-19,2035,14,Mason,Pasta Alfredo,Main Course,3,15,6,45,18,Credit Card
+2025-04-19,2035,14,Mason,Pasta Alfredo,Main Course,3,15,6,45,18,Credit Card
+2025-04-19,2035,14,Mason,Iced Tea,Beverage,1,3,1,3,1,Credit Card
+2025-04-19,2035,14,Mason,Margherita Pizza,Main Course,2,14,6,28,12,Credit Card
+2025-04-19,2035,14,Mason,Pasta Alfredo,Main Course,2,15,6,30,12,Credit Card
+2025-01-14,2036,10,Noah,Grilled Salmon,Main Course,2,20,10,40,20,Mobile Pay
+2025-01-14,2036,10,Noah,Garlic Bread,Starter,1,7,3,7,3,Mobile Pay
+2025-01-14,2036,10,Noah,Cheeseburger,Main Course,3,13,6,39,18,Mobile Pay
+2025-01-14,2036,10,Noah,Iced Tea,Beverage,2,3,1,6,2,Mobile Pay
+2025-01-14,2036,10,Noah,Margherita Pizza,Main Course,1,14,6,14,6,Mobile Pay
+2025-01-14,2036,10,Noah,Iced Tea,Beverage,2,3,1,6,2,Mobile Pay
+2025-06-17,2037,1,Mason,Pasta Alfredo,Main Course,3,15,6,45,18,Mobile Pay
+2025-06-17,2037,1,Mason,Grilled Salmon,Main Course,3,20,10,60,30,Mobile Pay
+2025-06-17,2037,1,Mason,Cheeseburger,Main Course,2,13,6,26,12,Mobile Pay
+2025-06-17,2037,1,Mason,Chicken Wings,Starter,1,11,5,11,5,Mobile Pay
+2025-06-17,2037,1,Mason,Chicken Wings,Starter,3,11,5,33,15,Mobile Pay
+2025-06-08,2038,16,Mason,Soft Drink,Beverage,1,3,1,3,1,Mobile Pay
+2025-06-08,2038,16,Mason,Chocolate Lava Cake,Dessert,2,9,4,18,8,Mobile Pay
+2025-01-09,2039,24,Emma,Chicken Wings,Starter,1,11,5,11,5,Cash
+2025-01-09,2039,24,Emma,Pepperoni Pizza,Main Course,1,16,7,16,7,Cash
+2025-01-10,2040,25,Emma,Margherita Pizza,Main Course,1,14,6,14,6,Cash
+2025-01-10,2040,25,Emma,Chicken Wings,Starter,1,11,5,11,5,Cash
+2025-01-10,2040,25,Emma,Cheeseburger,Main Course,1,13,6,13,6,Cash
+2025-01-10,2040,25,Emma,Grilled Salmon,Main Course,3,20,10,60,30,Cash
+2025-06-15,2041,4,Liam,Caesar Salad,Starter,3,9,4,27,12,Mobile Pay
+2025-06-15,2041,4,Liam,Chocolate Lava Cake,Dessert,2,9,4,18,8,Mobile Pay
+2025-06-15,2041,4,Liam,Chocolate Lava Cake,Dessert,2,9,4,18,8,Mobile Pay
+2025-06-03,2042,1,Ethan,Chicken Wings,Starter,1,11,5,11,5,Credit Card
+2025-06-03,2042,1,Ethan,Garlic Bread,Starter,3,7,3,21,9,Credit Card
+2025-06-07,2043,7,Emma,Chicken Wings,Starter,1,11,5,11,5,Credit Card
+2025-06-07,2043,7,Emma,Soft Drink,Beverage,1,3,1,3,1,Credit Card
+2025-06-07,2043,7,Emma,Caesar Salad,Starter,1,9,4,9,4,Credit Card
+2025-03-26,2044,20,Ethan,Soft Drink,Beverage,2,3,1,6,2,Cash
+2025-03-26,2044,20,Ethan,Iced Tea,Beverage,2,3,1,6,2,Cash
+2025-03-26,2044,20,Ethan,Chicken Wings,Starter,1,11,5,11,5,Cash
+2025-03-26,2044,20,Ethan,Cheeseburger,Main Course,3,13,6,39,18,Cash
+2025-03-26,2044,20,Ethan,Chocolate Lava Cake,Dessert,3,9,4,27,12,Cash
+2025-03-28,2045,10,Noah,Tiramisu,Dessert,1,8,3.5,8,3.5,Credit Card
+2025-03-28,2045,10,Noah,Chocolate Lava Cake,Dessert,2,9,4,18,8,Credit Card
+2025-03-28,2045,10,Noah,Soft Drink,Beverage,1,3,1,3,1,Credit Card
+2025-03-28,2045,10,Noah,Tiramisu,Dessert,3,8,3.5,24,10.5,Credit Card
+2025-03-28,2045,10,Noah,Grilled Salmon,Main Course,1,20,10,20,10,Credit Card
+2025-03-28,2045,10,Noah,Caesar Salad,Starter,2,9,4,18,8,Credit Card
+2025-01-04,2046,18,Emma,Soft Drink,Beverage,1,3,1,3,1,Credit Card
+2025-01-04,2046,18,Emma,Cheeseburger,Main Course,1,13,6,13,6,Credit Card
+2025-01-04,2046,18,Emma,Tiramisu,Dessert,2,8,3.5,16,7,Credit Card
+2025-01-04,2046,18,Emma,Coffee,Beverage,1,4,1.2,4,1.2,Credit Card
+2025-03-08,2047,11,Ava,Soft Drink,Beverage,2,3,1,6,2,Cash
+2025-03-08,2047,11,Ava,Garlic Bread,Starter,2,7,3,14,6,Cash
+2025-03-08,2047,11,Ava,Chicken Wings,Starter,3,11,5,33,15,Cash
+2025-06-08,2048,21,Emma,Grilled Salmon,Main Course,1,20,10,20,10,Debit Card
+2025-06-08,2048,21,Emma,Garlic Bread,Starter,2,7,3,14,6,Debit Card
+2025-03-20,2049,6,Olivia,Tiramisu,Dessert,1,8,3.5,8,3.5,Mobile Pay
+2025-03-20,2049,6,Olivia,Iced Tea,Beverage,1,3,1,3,1,Mobile Pay
+2025-03-20,2049,6,Olivia,Pasta Alfredo,Main Course,1,15,6,15,6,Mobile Pay
+2025-03-20,2049,6,Olivia,Coffee,Beverage,3,4,1.2,12,3.6,Mobile Pay
+2025-03-20,2049,6,Olivia,Margherita Pizza,Main Course,3,14,6,42,18,Mobile Pay
+2025-02-08,2050,22,Lucas,French Fries,Side,1,6,2.5,6,2.5,Mobile Pay
+2025-02-08,2050,22,Lucas,Pasta Alfredo,Main Course,2,15,6,30,12,Mobile Pay
+2025-02-08,2050,22,Lucas,Tiramisu,Dessert,2,8,3.5,16,7,Mobile Pay
+2025-02-08,2050,22,Lucas,Margherita Pizza,Main Course,3,14,6,42,18,Mobile Pay
+2025-04-19,2051,10,Ethan,Cheeseburger,Main Course,1,13,6,13,6,Cash
+2025-04-19,2051,10,Ethan,Soft Drink,Beverage,3,3,1,9,3,Cash
+2025-04-19,2051,10,Ethan,Pepperoni Pizza,Main Course,2,16,7,32,14,Cash
+2025-04-19,2051,10,Ethan,Cheeseburger,Main Course,2,13,6,26,12,Cash
+2025-04-19,2051,10,Ethan,Iced Tea,Beverage,2,3,1,6,2,Cash
+2025-04-19,2051,10,Ethan,French Fries,Side,3,6,2.5,18,7.5,Cash
+2025-06-11,2052,9,Ava,Chicken Wings,Starter,1,11,5,11,5,Debit Card
+2025-06-11,2052,9,Ava,Chicken Wings,Starter,3,11,5,33,15,Debit Card
+2025-06-11,2052,9,Ava,Coffee,Beverage,3,4,1.2,12,3.6,Debit Card
+2025-06-11,2052,9,Ava,Chicken Wings,Starter,1,11,5,11,5,Debit Card
+2025-06-11,2052,9,Ava,French Fries,Side,1,6,2.5,6,2.5,Debit Card
+2025-03-02,2053,10,Noah,Iced Tea,Beverage,3,3,1,9,3,Credit Card
+2025-03-02,2053,10,Noah,Caesar Salad,Starter,1,9,4,9,4,Credit Card
+2025-03-02,2053,10,Noah,Tiramisu,Dessert,1,8,3.5,8,3.5,Credit Card
+2025-03-02,2053,10,Noah,Soft Drink,Beverage,3,3,1,9,3,Credit Card
+2025-03-02,2053,10,Noah,Garlic Bread,Starter,1,7,3,7,3,Credit Card
+2025-03-23,2054,8,Mason,Soft Drink,Beverage,2,3,1,6,2,Mobile Pay
+2025-03-23,2054,8,Mason,Tiramisu,Dessert,2,8,3.5,16,7,Mobile Pay
+2025-03-23,2054,8,Mason,Cheeseburger,Main Course,3,13,6,39,18,Mobile Pay
+2025-03-11,2055,23,Sophia,Soft Drink,Beverage,2,3,1,6,2,Cash
+2025-03-11,2055,23,Sophia,Caesar Salad,Starter,2,9,4,18,8,Cash
+2025-03-11,2055,23,Sophia,Garlic Bread,Starter,3,7,3,21,9,Cash
+2025-03-11,2055,23,Sophia,Soft Drink,Beverage,1,3,1,3,1,Cash
+2025-03-11,2055,23,Sophia,Grilled Salmon,Main Course,3,20,10,60,30,Cash
+2025-01-18,2056,10,Liam,Garlic Bread,Starter,3,7,3,21,9,Credit Card
+2025-01-18,2056,10,Liam,Chocolate Lava Cake,Dessert,3,9,4,27,12,Credit Card
+2025-05-11,2057,17,Sophia,Garlic Bread,Starter,2,7,3,14,6,Mobile Pay
+2025-05-11,2057,17,Sophia,Soft Drink,Beverage,1,3,1,3,1,Mobile Pay
+2025-05-11,2057,17,Sophia,Grilled Salmon,Main Course,3,20,10,60,30,Mobile Pay
+2025-05-11,2057,17,Sophia,Chocolate Lava Cake,Dessert,3,9,4,27,12,Mobile Pay
+2025-05-11,2057,17,Sophia,Chicken Wings,Starter,2,11,5,22,10,Mobile Pay
+2025-06-07,2058,8,Mason,Cheeseburger,Main Course,3,13,6,39,18,Debit Card
+2025-06-07,2058,8,Mason,Pasta Alfredo,Main Course,3,15,6,45,18,Debit Card
+2025-05-07,2059,2,Sophia,Grilled Salmon,Main Course,1,20,10,20,10,Credit Card
+2025-05-07,2059,2,Sophia,Caesar Salad,Starter,3,9,4,27,12,Credit Card
+2025-05-07,2059,2,Sophia,Margherita Pizza,Main Course,2,14,6,28,12,Credit Card
+2025-05-07,2059,2,Sophia,Tiramisu,Dessert,3,8,3.5,24,10.5,Credit Card
+2025-05-07,2059,2,Sophia,Iced Tea,Beverage,2,3,1,6,2,Credit Card
+2025-05-25,2060,17,Lucas,Soft Drink,Beverage,3,3,1,9,3,Debit Card
+2025-05-25,2060,17,Lucas,Tiramisu,Dessert,2,8,3.5,16,7,Debit Card
+2025-06-28,2061,16,Emma,Chocolate Lava Cake,Dessert,3,9,4,27,12,Credit Card
+2025-06-28,2061,16,Emma,French Fries,Side,3,6,2.5,18,7.5,Credit Card
+2025-06-28,2061,16,Emma,Cheeseburger,Main Course,2,13,6,26,12,Credit Card
+2025-06-28,2061,16,Emma,Margherita Pizza,Main Course,1,14,6,14,6,Credit Card
+2025-06-28,2061,16,Emma,Caesar Salad,Starter,3,9,4,27,12,Credit Card
+2025-05-17,2062,22,Mason,Margherita Pizza,Main Course,2,14,6,28,12,Debit Card
+2025-05-17,2062,22,Mason,Pasta Alfredo,Main Course,2,15,6,30,12,Debit Card
+2025-05-17,2062,22,Mason,Margherita Pizza,Main Course,2,14,6,28,12,Debit Card
+2025-05-17,2062,22,Mason,Margherita Pizza,Main Course,3,14,6,42,18,Debit Card
+2025-05-17,2062,22,Mason,Pepperoni Pizza,Main Course,1,16,7,16,7,Debit Card
+2025-05-04,2063,22,Mason,Caesar Salad,Starter,1,9,4,9,4,Mobile Pay
+2025-05-04,2063,22,Mason,Chocolate Lava Cake,Dessert,2,9,4,18,8,Mobile Pay
+2025-05-04,2063,22,Mason,Grilled Salmon,Main Course,3,20,10,60,30,Mobile Pay
+2025-05-04,2063,22,Mason,Pasta Alfredo,Main Course,3,15,6,45,18,Mobile Pay
+2025-06-17,2064,8,Mason,Pasta Alfredo,Main Course,1,15,6,15,6,Debit Card
+2025-06-17,2064,8,Mason,Soft Drink,Beverage,1,3,1,3,1,Debit Card
+2025-06-17,2064,8,Mason,Soft Drink,Beverage,3,3,1,9,3,Debit Card
+2025-06-17,2064,8,Mason,Grilled Salmon,Main Course,1,20,10,20,10,Debit Card
+2025-02-20,2065,5,Sophia,French Fries,Side,3,6,2.5,18,7.5,Debit Card
+2025-02-20,2065,5,Sophia,Tiramisu,Dessert,1,8,3.5,8,3.5,Debit Card
+2025-02-20,2065,5,Sophia,Pepperoni Pizza,Main Course,2,16,7,32,14,Debit Card
+2025-02-20,2065,5,Sophia,Coffee,Beverage,3,4,1.2,12,3.6,Debit Card
+2025-05-01,2066,25,Lucas,Grilled Salmon,Main Course,2,20,10,40,20,Credit Card
+2025-05-01,2066,25,Lucas,Chocolate Lava Cake,Dessert,3,9,4,27,12,Credit Card
+2025-05-01,2066,25,Lucas,Pasta Alfredo,Main Course,3,15,6,45,18,Credit Card
+2025-05-01,2066,25,Lucas,Grilled Salmon,Main Course,3,20,10,60,30,Credit Card
+2025-02-11,2067,18,Noah,Soft Drink,Beverage,2,3,1,6,2,Cash
+2025-02-11,2067,18,Noah,French Fries,Side,3,6,2.5,18,7.5,Cash
+2025-02-11,2067,18,Noah,Pasta Alfredo,Main Course,1,15,6,15,6,Cash
+2025-02-11,2067,18,Noah,Iced Tea,Beverage,3,3,1,9,3,Cash
+2025-02-11,2067,18,Noah,Grilled Salmon,Main Course,3,20,10,60,30,Cash
+2025-02-11,2067,18,Noah,Tiramisu,Dessert,2,8,3.5,16,7,Cash
+2025-05-22,2068,7,Ethan,Margherita Pizza,Main Course,2,14,6,28,12,Mobile Pay
+2025-05-22,2068,7,Ethan,French Fries,Side,3,6,2.5,18,7.5,Mobile Pay
+2025-06-29,2069,6,Emma,Coffee,Beverage,1,4,1.2,4,1.2,Cash
+2025-06-29,2069,6,Emma,Chocolate Lava Cake,Dessert,1,9,4,9,4,Cash
+2025-06-29,2069,6,Emma,Chocolate Lava Cake,Dessert,3,9,4,27,12,Cash
+2025-06-29,2069,6,Emma,Chocolate Lava Cake,Dessert,2,9,4,18,8,Cash
+2025-06-29,2069,6,Emma,Pepperoni Pizza,Main Course,1,16,7,16,7,Cash
+2025-05-25,2070,8,Ava,French Fries,Side,2,6,2.5,12,5,Credit Card
+2025-05-25,2070,8,Ava,Chicken Wings,Starter,3,11,5,33,15,Credit Card
+2025-05-25,2070,8,Ava,Cheeseburger,Main Course,3,13,6,39,18,Credit Card
+2025-05-25,2070,8,Ava,Soft Drink,Beverage,3,3,1,9,3,Credit Card
+2025-05-25,2070,8,Ava,Caesar Salad,Starter,3,9,4,27,12,Credit Card
+2025-03-28,2071,4,Noah,French Fries,Side,2,6,2.5,12,5,Credit Card
+2025-03-28,2071,4,Noah,Iced Tea,Beverage,2,3,1,6,2,Credit Card
+2025-03-28,2071,4,Noah,Garlic Bread,Starter,2,7,3,14,6,Credit Card
+2025-01-18,2072,24,Mason,Tiramisu,Dessert,1,8,3.5,8,3.5,Cash
+2025-01-18,2072,24,Mason,Coffee,Beverage,3,4,1.2,12,3.6,Cash
+2025-03-20,2073,19,Sophia,Cheeseburger,Main Course,3,13,6,39,18,Mobile Pay
+2025-03-20,2073,19,Sophia,Pasta Alfredo,Main Course,2,15,6,30,12,Mobile Pay
+2025-03-20,2073,19,Sophia,Soft Drink,Beverage,2,3,1,6,2,Mobile Pay
+2025-03-20,2073,19,Sophia,French Fries,Side,2,6,2.5,12,5,Mobile Pay
+2025-03-20,2073,19,Sophia,Iced Tea,Beverage,2,3,1,6,2,Mobile Pay
+2025-03-20,2073,19,Sophia,Coffee,Beverage,3,4,1.2,12,3.6,Mobile Pay
+2025-01-19,2074,15,Ava,Pasta Alfredo,Main Course,2,15,6,30,12,Credit Card
+2025-01-19,2074,15,Ava,Chicken Wings,Starter,2,11,5,22,10,Credit Card
+2025-01-19,2074,15,Ava,Soft Drink,Beverage,3,3,1,9,3,Credit Card
+2025-01-19,2074,15,Ava,Grilled Salmon,Main Course,1,20,10,20,10,Credit Card
+2025-03-06,2075,14,Olivia,Pepperoni Pizza,Main Course,1,16,7,16,7,Cash
+2025-03-06,2075,14,Olivia,Caesar Salad,Starter,2,9,4,18,8,Cash
+2025-03-06,2075,14,Olivia,Margherita Pizza,Main Course,2,14,6,28,12,Cash
+2025-03-06,2075,14,Olivia,Garlic Bread,Starter,3,7,3,21,9,Cash
+2025-03-06,2075,14,Olivia,Pepperoni Pizza,Main Course,1,16,7,16,7,Cash
+2025-03-06,2075,14,Olivia,Soft Drink,Beverage,1,3,1,3,1,Cash
+2025-04-02,2076,1,Noah,Tiramisu,Dessert,3,8,3.5,24,10.5,Credit Card
+2025-04-02,2076,1,Noah,Grilled Salmon,Main Course,1,20,10,20,10,Credit Card
+2025-04-02,2076,1,Noah,Tiramisu,Dessert,2,8,3.5,16,7,Credit Card
+2025-06-03,2077,15,Noah,Chocolate Lava Cake,Dessert,2,9,4,18,8,Cash
+2025-06-03,2077,15,Noah,Grilled Salmon,Main Course,1,20,10,20,10,Cash
+2025-06-03,2077,15,Noah,Garlic Bread,Starter,1,7,3,7,3,Cash
+2025-06-03,2077,15,Noah,Cheeseburger,Main Course,1,13,6,13,6,Cash
+2025-06-03,2077,15,Noah,Tiramisu,Dessert,2,8,3.5,16,7,Cash
+2025-06-03,2077,15,Noah,Cheeseburger,Main Course,1,13,6,13,6,Cash
+2025-03-07,2078,23,Ava,Pasta Alfredo,Main Course,1,15,6,15,6,Mobile Pay
+2025-03-07,2078,23,Ava,Soft Drink,Beverage,2,3,1,6,2,Mobile Pay
+2025-03-07,2078,23,Ava,Garlic Bread,Starter,2,7,3,14,6,Mobile Pay
+2025-03-07,2078,23,Ava,Soft Drink,Beverage,1,3,1,3,1,Mobile Pay
+2025-03-07,2078,23,Ava,French Fries,Side,3,6,2.5,18,7.5,Mobile Pay
+2025-03-07,2078,23,Ava,French Fries,Side,1,6,2.5,6,2.5,Mobile Pay
+2025-03-13,2079,11,Mason,Chocolate Lava Cake,Dessert,1,9,4,9,4,Debit Card
+2025-03-13,2079,11,Mason,Garlic Bread,Starter,2,7,3,14,6,Debit Card
+2025-03-13,2079,11,Mason,Caesar Salad,Starter,2,9,4,18,8,Debit Card
+2025-03-13,2079,11,Mason,Tiramisu,Dessert,2,8,3.5,16,7,Debit Card
+2025-01-17,2080,23,Sophia,Coffee,Beverage,1,4,1.2,4,1.2,Cash
+2025-01-17,2080,23,Sophia,Pepperoni Pizza,Main Course,2,16,7,32,14,Cash
+2025-01-17,2080,23,Sophia,Chocolate Lava Cake,Dessert,3,9,4,27,12,Cash
+2025-06-02,2081,5,Ethan,French Fries,Side,1,6,2.5,6,2.5,Debit Card
+2025-06-02,2081,5,Ethan,Pasta Alfredo,Main Course,3,15,6,45,18,Debit Card
+2025-02-23,2082,8,Ethan,French Fries,Side,2,6,2.5,12,5,Debit Card
+2025-02-23,2082,8,Ethan,Grilled Salmon,Main Course,2,20,10,40,20,Debit Card
+2025-02-23,2082,8,Ethan,Margherita Pizza,Main Course,3,14,6,42,18,Debit Card
+2025-02-23,2082,8,Ethan,Pasta Alfredo,Main Course,3,15,6,45,18,Debit Card
+2025-06-12,2083,1,Lucas,French Fries,Side,2,6,2.5,12,5,Debit Card
+2025-06-12,2083,1,Lucas,Pepperoni Pizza,Main Course,1,16,7,16,7,Debit Card
+2025-06-12,2083,1,Lucas,Margherita Pizza,Main Course,2,14,6,28,12,Debit Card
+2025-06-12,2083,1,Lucas,Chocolate Lava Cake,Dessert,1,9,4,9,4,Debit Card
+2025-06-12,2083,1,Lucas,Margherita Pizza,Main Course,2,14,6,28,12,Debit Card
+2025-06-12,2083,1,Lucas,French Fries,Side,1,6,2.5,6,2.5,Debit Card
+2025-05-09,2084,3,Lucas,Coffee,Beverage,2,4,1.2,8,2.4,Cash
+2025-05-09,2084,3,Lucas,Garlic Bread,Starter,3,7,3,21,9,Cash
+2025-05-09,2084,3,Lucas,Coffee,Beverage,1,4,1.2,4,1.2,Cash
+2025-05-09,2084,3,Lucas,Pepperoni Pizza,Main Course,3,16,7,48,21,Cash
+2025-06-06,2085,6,Emma,Coffee,Beverage,1,4,1.2,4,1.2,Debit Card
+2025-06-06,2085,6,Emma,Pepperoni Pizza,Main Course,3,16,7,48,21,Debit Card
+2025-04-04,2086,1,Noah,Pasta Alfredo,Main Course,3,15,6,45,18,Cash
+2025-04-04,2086,1,Noah,Iced Tea,Beverage,3,3,1,9,3,Cash
+2025-04-04,2086,1,Noah,Caesar Salad,Starter,3,9,4,27,12,Cash
+2025-04-04,2086,1,Noah,Garlic Bread,Starter,2,7,3,14,6,Cash
+2025-04-04,2086,1,Noah,Tiramisu,Dessert,1,8,3.5,8,3.5,Cash
+2025-01-11,2087,12,Emma,Cheeseburger,Main Course,3,13,6,39,18,Credit Card
+2025-01-11,2087,12,Emma,Pasta Alfredo,Main Course,3,15,6,45,18,Credit Card
+2025-04-28,2088,20,Ethan,Margherita Pizza,Main Course,2,14,6,28,12,Credit Card
+2025-04-28,2088,20,Ethan,Pepperoni Pizza,Main Course,2,16,7,32,14,Credit Card
+2025-04-28,2088,20,Ethan,Soft Drink,Beverage,2,3,1,6,2,Credit Card
+2025-02-19,2089,7,Lucas,Soft Drink,Beverage,1,3,1,3,1,Mobile Pay
+2025-02-19,2089,7,Lucas,French Fries,Side,2,6,2.5,12,5,Mobile Pay
+2025-05-25,2090,11,Emma,Caesar Salad,Starter,3,9,4,27,12,Credit Card
+2025-05-25,2090,11,Emma,Pasta Alfredo,Main Course,1,15,6,15,6,Credit Card
+2025-05-25,2090,11,Emma,French Fries,Side,3,6,2.5,18,7.5,Credit Card
+2025-05-25,2090,11,Emma,Caesar Salad,Starter,3,9,4,27,12,Credit Card
+2025-05-25,2090,11,Emma,Pasta Alfredo,Main Course,3,15,6,45,18,Credit Card
+2025-05-25,2090,11,Emma,French Fries,Side,2,6,2.5,12,5,Credit Card
+2025-04-20,2091,8,Sophia,Margherita Pizza,Main Course,2,14,6,28,12,Debit Card
+2025-04-20,2091,8,Sophia,Garlic Bread,Starter,2,7,3,14,6,Debit Card
+2025-04-20,2091,8,Sophia,Cheeseburger,Main Course,3,13,6,39,18,Debit Card
+2025-05-05,2092,14,Noah,Coffee,Beverage,2,4,1.2,8,2.4,Debit Card
+2025-05-05,2092,14,Noah,Pasta Alfredo,Main Course,3,15,6,45,18,Debit Card
+2025-05-05,2092,14,Noah,Garlic Bread,Starter,2,7,3,14,6,Debit Card
+2025-05-05,2092,14,Noah,Cheeseburger,Main Course,3,13,6,39,18,Debit Card
+2025-05-05,2092,14,Noah,Caesar Salad,Starter,3,9,4,27,12,Debit Card
+2025-03-14,2093,13,Mason,Coffee,Beverage,2,4,1.2,8,2.4,Cash
+2025-03-14,2093,13,Mason,Iced Tea,Beverage,3,3,1,9,3,Cash
+2025-03-14,2093,13,Mason,Chocolate Lava Cake,Dessert,1,9,4,9,4,Cash
+2025-03-14,2093,13,Mason,Soft Drink,Beverage,3,3,1,9,3,Cash
+2025-03-14,2093,13,Mason,Garlic Bread,Starter,2,7,3,14,6,Cash
+2025-03-14,2093,13,Mason,French Fries,Side,3,6,2.5,18,7.5,Cash
+2025-01-28,2094,23,Ethan,Soft Drink,Beverage,1,3,1,3,1,Credit Card
+2025-01-28,2094,23,Ethan,Tiramisu,Dessert,1,8,3.5,8,3.5,Credit Card
+2025-01-28,2094,23,Ethan,Caesar Salad,Starter,2,9,4,18,8,Credit Card
+2025-01-28,2094,23,Ethan,Coffee,Beverage,3,4,1.2,12,3.6,Credit Card
+2025-01-28,2094,23,Ethan,Caesar Salad,Starter,1,9,4,9,4,Credit Card
+2025-04-24,2095,12,Liam,Margherita Pizza,Main Course,3,14,6,42,18,Debit Card
+2025-04-24,2095,12,Liam,Caesar Salad,Starter,1,9,4,9,4,Debit Card
+2025-04-24,2095,12,Liam,Chicken Wings,Starter,3,11,5,33,15,Debit Card
+2025-04-24,2095,12,Liam,Soft Drink,Beverage,1,3,1,3,1,Debit Card
+2025-04-24,2095,12,Liam,Cheeseburger,Main Course,1,13,6,13,6,Debit Card
+2025-06-05,2096,10,Noah,Soft Drink,Beverage,2,3,1,6,2,Credit Card
+2025-06-05,2096,10,Noah,French Fries,Side,1,6,2.5,6,2.5,Credit Card
+2025-06-09,2097,17,Liam,Cheeseburger,Main Course,3,13,6,39,18,Debit Card
+2025-06-09,2097,17,Liam,Garlic Bread,Starter,3,7,3,21,9,Debit Card
+2025-02-06,2098,12,Mason,Soft Drink,Beverage,2,3,1,6,2,Cash
+2025-02-06,2098,12,Mason,Pasta Alfredo,Main Course,3,15,6,45,18,Cash
+2025-02-06,2098,12,Mason,French Fries,Side,3,6,2.5,18,7.5,Cash
+2025-02-06,2098,12,Mason,Coffee,Beverage,1,4,1.2,4,1.2,Cash
+2025-06-28,2099,20,Liam,Chocolate Lava Cake,Dessert,2,9,4,18,8,Mobile Pay
+2025-06-28,2099,20,Liam,Iced Tea,Beverage,2,3,1,6,2,Mobile Pay
+2025-06-28,2099,20,Liam,French Fries,Side,2,6,2.5,12,5,Mobile Pay
+2025-06-28,2099,20,Liam,Chocolate Lava Cake,Dessert,2,9,4,18,8,Mobile Pay
+2025-06-28,2099,20,Liam,Grilled Salmon,Main Course,1,20,10,20,10,Mobile Pay
+2025-06-22,2100,24,Liam,French Fries,Side,3,6,2.5,18,7.5,Credit Card
+2025-06-22,2100,24,Liam,Chicken Wings,Starter,3,11,5,33,15,Credit Card
+2025-06-22,2100,24,Liam,Chicken Wings,Starter,3,11,5,33,15,Credit Card
+2025-02-06,2101,23,Ethan,Caesar Salad,Starter,1,9,4,9,4,Debit Card
+2025-02-06,2101,23,Ethan,Tiramisu,Dessert,2,8,3.5,16,7,Debit Card
+2025-02-06,2101,23,Ethan,Chicken Wings,Starter,1,11,5,11,5,Debit Card
+2025-01-31,2102,6,Lucas,Soft Drink,Beverage,1,3,1,3,1,Mobile Pay
+2025-01-31,2102,6,Lucas,Caesar Salad,Starter,3,9,4,27,12,Mobile Pay
+2025-01-31,2102,6,Lucas,Margherita Pizza,Main Course,2,14,6,28,12,Mobile Pay
+2025-01-31,2102,6,Lucas,Cheeseburger,Main Course,1,13,6,13,6,Mobile Pay
+2025-02-19,2103,3,Ava,Cheeseburger,Main Course,2,13,6,26,12,Debit Card
+2025-02-19,2103,3,Ava,Chocolate Lava Cake,Dessert,3,9,4,27,12,Debit Card
+2025-05-08,2104,24,Lucas,Cheeseburger,Main Course,3,13,6,39,18,Cash
+2025-05-08,2104,24,Lucas,Garlic Bread,Starter,2,7,3,14,6,Cash
+2025-05-08,2104,24,Lucas,Cheeseburger,Main Course,3,13,6,39,18,Cash
+2025-05-08,2104,24,Lucas,Iced Tea,Beverage,2,3,1,6,2,Cash
+2025-05-08,2104,24,Lucas,Cheeseburger,Main Course,3,13,6,39,18,Cash
+2025-05-08,2104,24,Lucas,French Fries,Side,1,6,2.5,6,2.5,Cash
+2025-05-23,2105,11,Sophia,Iced Tea,Beverage,2,3,1,6,2,Mobile Pay
+2025-05-23,2105,11,Sophia,Garlic Bread,Starter,1,7,3,7,3,Mobile Pay
+2025-05-23,2105,11,Sophia,Tiramisu,Dessert,2,8,3.5,16,7,Mobile Pay
+2025-05-23,2105,11,Sophia,Chocolate Lava Cake,Dessert,2,9,4,18,8,Mobile Pay
+2025-05-23,2105,11,Sophia,Iced Tea,Beverage,2,3,1,6,2,Mobile Pay
+2025-05-23,2105,11,Sophia,Pasta Alfredo,Main Course,3,15,6,45,18,Mobile Pay
+2025-02-17,2106,22,Sophia,Coffee,Beverage,2,4,1.2,8,2.4,Debit Card
+2025-02-17,2106,22,Sophia,Cheeseburger,Main Course,1,13,6,13,6,Debit Card
+2025-02-26,2107,21,Emma,Iced Tea,Beverage,3,3,1,9,3,Mobile Pay
+2025-02-26,2107,21,Emma,Garlic Bread,Starter,2,7,3,14,6,Mobile Pay
+2025-01-29,2108,22,Noah,Chicken Wings,Starter,3,11,5,33,15,Mobile Pay
+2025-01-29,2108,22,Noah,Chicken Wings,Starter,3,11,5,33,15,Mobile Pay
+2025-01-29,2108,22,Noah,Grilled Salmon,Main Course,3,20,10,60,30,Mobile Pay
+2025-02-03,2109,12,Ava,French Fries,Side,3,6,2.5,18,7.5,Debit Card
+2025-02-03,2109,12,Ava,French Fries,Side,3,6,2.5,18,7.5,Debit Card
+2025-03-08,2110,15,Ethan,Chocolate Lava Cake,Dessert,3,9,4,27,12,Cash
+2025-03-08,2110,15,Ethan,Chicken Wings,Starter,1,11,5,11,5,Cash
+2025-03-08,2110,15,Ethan,Iced Tea,Beverage,1,3,1,3,1,Cash
+2025-01-16,2111,7,Ava,Margherita Pizza,Main Course,3,14,6,42,18,Credit Card
+2025-01-16,2111,7,Ava,Cheeseburger,Main Course,1,13,6,13,6,Credit Card
+2025-01-16,2111,7,Ava,Coffee,Beverage,1,4,1.2,4,1.2,Credit Card
+2025-01-16,2111,7,Ava,Chocolate Lava Cake,Dessert,2,9,4,18,8,Credit Card
+2025-01-16,2111,7,Ava,Garlic Bread,Starter,2,7,3,14,6,Credit Card
+2025-01-16,2111,7,Ava,Grilled Salmon,Main Course,2,20,10,40,20,Credit Card
+2025-04-02,2112,15,Liam,Pepperoni Pizza,Main Course,2,16,7,32,14,Mobile Pay
+2025-04-02,2112,15,Liam,French Fries,Side,3,6,2.5,18,7.5,Mobile Pay
+2025-04-02,2112,15,Liam,Chocolate Lava Cake,Dessert,1,9,4,9,4,Mobile Pay
+2025-04-02,2112,15,Liam,Chocolate Lava Cake,Dessert,2,9,4,18,8,Mobile Pay
+2025-04-02,2112,15,Liam,Chocolate Lava Cake,Dessert,3,9,4,27,12,Mobile Pay
+2025-04-02,2112,15,Liam,French Fries,Side,3,6,2.5,18,7.5,Mobile Pay
+2025-05-07,2113,1,Liam,Chicken Wings,Starter,3,11,5,33,15,Cash
+2025-05-07,2113,1,Liam,Tiramisu,Dessert,3,8,3.5,24,10.5,Cash
+2025-05-07,2113,1,Liam,Grilled Salmon,Main Course,3,20,10,60,30,Cash
+2025-05-07,2113,1,Liam,Cheeseburger,Main Course,1,13,6,13,6,Cash
+2025-05-07,2113,1,Liam,Pasta Alfredo,Main Course,3,15,6,45,18,Cash
+2025-05-07,2113,1,Liam,Soft Drink,Beverage,3,3,1,9,3,Cash
+2025-05-16,2114,12,Emma,Cheeseburger,Main Course,3,13,6,39,18,Debit Card
+2025-05-16,2114,12,Emma,Garlic Bread,Starter,1,7,3,7,3,Debit Card
+2025-05-16,2114,12,Emma,Pepperoni Pizza,Main Course,2,16,7,32,14,Debit Card
+2025-05-16,2114,12,Emma,Pepperoni Pizza,Main Course,3,16,7,48,21,Debit Card
+2025-05-16,2114,12,Emma,Cheeseburger,Main Course,3,13,6,39,18,Debit Card
+2025-05-16,2114,12,Emma,Margherita Pizza,Main Course,3,14,6,42,18,Debit Card
+2025-06-23,2115,14,Mason,Caesar Salad,Starter,1,9,4,9,4,Cash
+2025-06-23,2115,14,Mason,Caesar Salad,Starter,2,9,4,18,8,Cash
+2025-06-23,2115,14,Mason,Coffee,Beverage,1,4,1.2,4,1.2,Cash
+2025-06-23,2115,14,Mason,Chocolate Lava Cake,Dessert,2,9,4,18,8,Cash
+2025-06-23,2115,14,Mason,Margherita Pizza,Main Course,2,14,6,28,12,Cash
+2025-01-23,2116,9,Mason,Margherita Pizza,Main Course,2,14,6,28,12,Mobile Pay
+2025-01-23,2116,9,Mason,Pepperoni Pizza,Main Course,3,16,7,48,21,Mobile Pay
+2025-01-23,2116,9,Mason,Caesar Salad,Starter,3,9,4,27,12,Mobile Pay
+2025-02-20,2117,12,Emma,Garlic Bread,Starter,2,7,3,14,6,Mobile Pay
+2025-02-20,2117,12,Emma,Pasta Alfredo,Main Course,1,15,6,15,6,Mobile Pay
+2025-02-20,2117,12,Emma,French Fries,Side,3,6,2.5,18,7.5,Mobile Pay
+2025-02-20,2117,12,Emma,Soft Drink,Beverage,2,3,1,6,2,Mobile Pay
+2025-05-16,2118,11,Liam,Pasta Alfredo,Main Course,2,15,6,30,12,Mobile Pay
+2025-05-16,2118,11,Liam,Iced Tea,Beverage,1,3,1,3,1,Mobile Pay
+2025-05-16,2118,11,Liam,Caesar Salad,Starter,3,9,4,27,12,Mobile Pay
+2025-05-16,2118,11,Liam,Pepperoni Pizza,Main Course,2,16,7,32,14,Mobile Pay
+2025-05-16,2118,11,Liam,Chocolate Lava Cake,Dessert,2,9,4,18,8,Mobile Pay
+2025-05-16,2118,11,Liam,Chocolate Lava Cake,Dessert,3,9,4,27,12,Mobile Pay
+2025-03-03,2119,5,Sophia,Iced Tea,Beverage,3,3,1,9,3,Mobile Pay
+2025-03-03,2119,5,Sophia,Coffee,Beverage,1,4,1.2,4,1.2,Mobile Pay
+2025-03-03,2119,5,Sophia,Garlic Bread,Starter,1,7,3,7,3,Mobile Pay
+2025-03-03,2119,5,Sophia,Margherita Pizza,Main Course,2,14,6,28,12,Mobile Pay
+2025-04-23,2120,14,Noah,Chicken Wings,Starter,2,11,5,22,10,Cash
+2025-04-23,2120,14,Noah,Soft Drink,Beverage,2,3,1,6,2,Cash
+2025-04-23,2120,14,Noah,Tiramisu,Dessert,3,8,3.5,24,10.5,Cash
+2025-04-23,2120,14,Noah,Margherita Pizza,Main Course,1,14,6,14,6,Cash
+2025-04-23,2120,14,Noah,Chicken Wings,Starter,2,11,5,22,10,Cash
+2025-04-20,2121,12,Ethan,Garlic Bread,Starter,2,7,3,14,6,Credit Card
+2025-04-20,2121,12,Ethan,Coffee,Beverage,3,4,1.2,12,3.6,Credit Card
+2025-04-20,2121,12,Ethan,Soft Drink,Beverage,3,3,1,9,3,Credit Card
+2025-04-20,2121,12,Ethan,Margherita Pizza,Main Course,2,14,6,28,12,Credit Card
+2025-04-20,2121,12,Ethan,Tiramisu,Dessert,2,8,3.5,16,7,Credit Card
+2025-04-20,2121,12,Ethan,Pasta Alfredo,Main Course,1,15,6,15,6,Credit Card
+2025-04-23,2122,13,Ava,Pasta Alfredo,Main Course,1,15,6,15,6,Credit Card
+2025-04-23,2122,13,Ava,Soft Drink,Beverage,1,3,1,3,1,Credit Card
+2025-04-16,2123,20,Emma,Pepperoni Pizza,Main Course,3,16,7,48,21,Debit Card
+2025-04-16,2123,20,Emma,Pasta Alfredo,Main Course,3,15,6,45,18,Debit Card
+2025-01-13,2124,23,Liam,Pepperoni Pizza,Main Course,3,16,7,48,21,Mobile Pay
+2025-01-13,2124,23,Liam,Pasta Alfredo,Main Course,1,15,6,15,6,Mobile Pay
+2025-03-23,2125,23,Ethan,Tiramisu,Dessert,2,8,3.5,16,7,Mobile Pay
+2025-03-23,2125,23,Ethan,Caesar Salad,Starter,3,9,4,27,12,Mobile Pay
+2025-03-23,2125,23,Ethan,Chicken Wings,Starter,1,11,5,11,5,Mobile Pay
+2025-02-19,2126,14,Noah,Cheeseburger,Main Course,2,13,6,26,12,Mobile Pay
+2025-02-19,2126,14,Noah,Pepperoni Pizza,Main Course,2,16,7,32,14,Mobile Pay
+2025-02-19,2126,14,Noah,Garlic Bread,Starter,2,7,3,14,6,Mobile Pay
+2025-02-19,2126,14,Noah,Soft Drink,Beverage,3,3,1,9,3,Mobile Pay
+2025-02-15,2127,21,Mason,Pasta Alfredo,Main Course,1,15,6,15,6,Debit Card
+2025-02-15,2127,21,Mason,Cheeseburger,Main Course,1,13,6,13,6,Debit Card
+2025-02-15,2127,21,Mason,Coffee,Beverage,2,4,1.2,8,2.4,Debit Card
+2025-02-15,2127,21,Mason,Chocolate Lava Cake,Dessert,1,9,4,9,4,Debit Card
+2025-02-15,2127,21,Mason,Caesar Salad,Starter,1,9,4,9,4,Debit Card
+2025-02-15,2128,3,Mason,Tiramisu,Dessert,2,8,3.5,16,7,Mobile Pay
+2025-02-15,2128,3,Mason,Tiramisu,Dessert,2,8,3.5,16,7,Mobile Pay
+2025-02-15,2128,3,Mason,Garlic Bread,Starter,1,7,3,7,3,Mobile Pay
+2025-02-15,2128,3,Mason,Pasta Alfredo,Main Course,1,15,6,15,6,Mobile Pay
+2025-02-15,2128,3,Mason,Garlic Bread,Starter,2,7,3,14,6,Mobile Pay
+2025-02-15,2128,3,Mason,Iced Tea,Beverage,3,3,1,9,3,Mobile Pay
+2025-01-10,2129,13,Noah,Tiramisu,Dessert,3,8,3.5,24,10.5,Cash
+2025-01-10,2129,13,Noah,Cheeseburger,Main Course,2,13,6,26,12,Cash
+2025-01-10,2129,13,Noah,Margherita Pizza,Main Course,3,14,6,42,18,Cash
+2025-04-06,2130,8,Sophia,Caesar Salad,Starter,3,9,4,27,12,Debit Card
+2025-04-06,2130,8,Sophia,Iced Tea,Beverage,1,3,1,3,1,Debit Card
+2025-04-06,2130,8,Sophia,French Fries,Side,1,6,2.5,6,2.5,Debit Card
+2025-01-13,2131,14,Olivia,Soft Drink,Beverage,3,3,1,9,3,Cash
+2025-01-13,2131,14,Olivia,French Fries,Side,2,6,2.5,12,5,Cash
+2025-01-19,2132,6,Lucas,Garlic Bread,Starter,1,7,3,7,3,Mobile Pay
+2025-01-19,2132,6,Lucas,Grilled Salmon,Main Course,3,20,10,60,30,Mobile Pay
+2025-01-19,2132,6,Lucas,Coffee,Beverage,1,4,1.2,4,1.2,Mobile Pay
+2025-01-19,2132,6,Lucas,Cheeseburger,Main Course,3,13,6,39,18,Mobile Pay
+2025-01-19,2132,6,Lucas,Tiramisu,Dessert,1,8,3.5,8,3.5,Mobile Pay
+2025-03-09,2133,3,Mason,Cheeseburger,Main Course,2,13,6,26,12,Debit Card
+2025-03-09,2133,3,Mason,Iced Tea,Beverage,2,3,1,6,2,Debit Card
+2025-03-09,2133,3,Mason,Grilled Salmon,Main Course,3,20,10,60,30,Debit Card
+2025-03-09,2133,3,Mason,Chocolate Lava Cake,Dessert,2,9,4,18,8,Debit Card
+2025-03-09,2133,3,Mason,Tiramisu,Dessert,3,8,3.5,24,10.5,Debit Card
+2025-03-09,2133,3,Mason,Iced Tea,Beverage,2,3,1,6,2,Debit Card
+2025-04-13,2134,25,Ava,Pepperoni Pizza,Main Course,2,16,7,32,14,Mobile Pay
+2025-04-13,2134,25,Ava,Grilled Salmon,Main Course,2,20,10,40,20,Mobile Pay
+2025-05-11,2135,6,Olivia,Chicken Wings,Starter,1,11,5,11,5,Cash
+2025-05-11,2135,6,Olivia,Pasta Alfredo,Main Course,3,15,6,45,18,Cash
+2025-02-21,2136,13,Sophia,Tiramisu,Dessert,1,8,3.5,8,3.5,Mobile Pay
+2025-02-21,2136,13,Sophia,Grilled Salmon,Main Course,1,20,10,20,10,Mobile Pay
+2025-02-21,2136,13,Sophia,Soft Drink,Beverage,2,3,1,6,2,Mobile Pay
+2025-01-07,2137,14,Sophia,Iced Tea,Beverage,1,3,1,3,1,Mobile Pay
+2025-01-07,2137,14,Sophia,Pasta Alfredo,Main Course,2,15,6,30,12,Mobile Pay
+2025-01-07,2137,14,Sophia,Margherita Pizza,Main Course,2,14,6,28,12,Mobile Pay
+2025-01-07,2137,14,Sophia,Pepperoni Pizza,Main Course,3,16,7,48,21,Mobile Pay
+2025-01-07,2137,14,Sophia,Tiramisu,Dessert,3,8,3.5,24,10.5,Mobile Pay
+2025-06-30,2138,8,Mason,Pasta Alfredo,Main Course,1,15,6,15,6,Credit Card
+2025-06-30,2138,8,Mason,Caesar Salad,Starter,2,9,4,18,8,Credit Card
+2025-06-30,2138,8,Mason,Iced Tea,Beverage,1,3,1,3,1,Credit Card
+2025-06-30,2138,8,Mason,Cheeseburger,Main Course,3,13,6,39,18,Credit Card
+2025-06-30,2138,8,Mason,Chocolate Lava Cake,Dessert,2,9,4,18,8,Credit Card
+2025-06-30,2138,8,Mason,Tiramisu,Dessert,2,8,3.5,16,7,Credit Card
+2025-05-14,2139,6,Liam,Caesar Salad,Starter,3,9,4,27,12,Credit Card
+2025-05-14,2139,6,Liam,Chicken Wings,Starter,3,11,5,33,15,Credit Card
+2025-05-04,2140,5,Ava,Soft Drink,Beverage,2,3,1,6,2,Mobile Pay
+2025-05-04,2140,5,Ava,French Fries,Side,3,6,2.5,18,7.5,Mobile Pay
+2025-05-04,2140,5,Ava,Chicken Wings,Starter,3,11,5,33,15,Mobile Pay
+2025-05-04,2140,5,Ava,Cheeseburger,Main Course,3,13,6,39,18,Mobile Pay
+2025-03-07,2141,4,Sophia,Iced Tea,Beverage,2,3,1,6,2,Mobile Pay
+2025-03-07,2141,4,Sophia,Cheeseburger,Main Course,1,13,6,13,6,Mobile Pay
+2025-03-07,2141,4,Sophia,Chocolate Lava Cake,Dessert,2,9,4,18,8,Mobile Pay
+2025-03-11,2142,2,Sophia,Grilled Salmon,Main Course,2,20,10,40,20,Debit Card
+2025-03-11,2142,2,Sophia,Cheeseburger,Main Course,3,13,6,39,18,Debit Card
+2025-03-11,2142,2,Sophia,Caesar Salad,Starter,3,9,4,27,12,Debit Card
+2025-03-11,2142,2,Sophia,Coffee,Beverage,2,4,1.2,8,2.4,Debit Card
+2025-06-29,2143,23,Noah,Pasta Alfredo,Main Course,3,15,6,45,18,Credit Card
+2025-06-29,2143,23,Noah,Pasta Alfredo,Main Course,1,15,6,15,6,Credit Card
+2025-06-29,2143,23,Noah,Margherita Pizza,Main Course,3,14,6,42,18,Credit Card
+2025-06-29,2143,23,Noah,Iced Tea,Beverage,3,3,1,9,3,Credit Card
+2025-06-29,2143,23,Noah,Chicken Wings,Starter,3,11,5,33,15,Credit Card
+2025-06-29,2143,23,Noah,French Fries,Side,1,6,2.5,6,2.5,Credit Card
+2025-05-16,2144,13,Emma,French Fries,Side,1,6,2.5,6,2.5,Debit Card
+2025-05-16,2144,13,Emma,Grilled Salmon,Main Course,3,20,10,60,30,Debit Card
+2025-05-16,2144,13,Emma,Tiramisu,Dessert,3,8,3.5,24,10.5,Debit Card
+2025-05-16,2144,13,Emma,Iced Tea,Beverage,3,3,1,9,3,Debit Card
+2025-05-16,2144,13,Emma,Caesar Salad,Starter,2,9,4,18,8,Debit Card
+2025-05-16,2144,13,Emma,Iced Tea,Beverage,1,3,1,3,1,Debit Card
+2025-05-16,2145,14,Olivia,Grilled Salmon,Main Course,3,20,10,60,30,Credit Card
+2025-05-16,2145,14,Olivia,Tiramisu,Dessert,2,8,3.5,16,7,Credit Card
+2025-05-16,2145,14,Olivia,Caesar Salad,Starter,3,9,4,27,12,Credit Card
+2025-05-16,2145,14,Olivia,Iced Tea,Beverage,1,3,1,3,1,Credit Card
+2025-05-16,2145,14,Olivia,Garlic Bread,Starter,3,7,3,21,9,Credit Card
+2025-05-16,2145,14,Olivia,French Fries,Side,2,6,2.5,12,5,Credit Card
+2025-05-09,2146,24,Ethan,Cheeseburger,Main Course,3,13,6,39,18,Mobile Pay
+2025-05-09,2146,24,Ethan,Coffee,Beverage,3,4,1.2,12,3.6,Mobile Pay
+2025-05-09,2146,24,Ethan,Iced Tea,Beverage,2,3,1,6,2,Mobile Pay
+2025-05-09,2146,24,Ethan,Chicken Wings,Starter,2,11,5,22,10,Mobile Pay
+2025-05-09,2146,24,Ethan,Grilled Salmon,Main Course,2,20,10,40,20,Mobile Pay
+2025-05-09,2146,24,Ethan,Garlic Bread,Starter,2,7,3,14,6,Mobile Pay
+2025-01-22,2147,13,Noah,French Fries,Side,2,6,2.5,12,5,Cash
+2025-01-22,2147,13,Noah,Tiramisu,Dessert,2,8,3.5,16,7,Cash
+2025-01-22,2147,13,Noah,Cheeseburger,Main Course,1,13,6,13,6,Cash
+2025-01-22,2147,13,Noah,Tiramisu,Dessert,1,8,3.5,8,3.5,Cash
+2025-01-24,2148,24,Lucas,Soft Drink,Beverage,1,3,1,3,1,Cash
+2025-01-24,2148,24,Lucas,Pasta Alfredo,Main Course,2,15,6,30,12,Cash
+2025-04-13,2149,5,Liam,Caesar Salad,Starter,3,9,4,27,12,Credit Card
+2025-04-13,2149,5,Liam,Cheeseburger,Main Course,1,13,6,13,6,Credit Card
+2025-04-13,2149,5,Liam,Iced Tea,Beverage,1,3,1,3,1,Credit Card
+2025-01-01,2150,3,Ava,Grilled Salmon,Main Course,2,20,10,40,20,Debit Card
+2025-01-01,2150,3,Ava,Tiramisu,Dessert,1,8,3.5,8,3.5,Debit Card
+2025-01-01,2150,3,Ava,Iced Tea,Beverage,3,3,1,9,3,Debit Card
+2025-06-09,2151,21,Emma,Soft Drink,Beverage,2,3,1,6,2,Credit Card
+2025-06-09,2151,21,Emma,Chocolate Lava Cake,Dessert,1,9,4,9,4,Credit Card
+2025-06-09,2151,21,Emma,Margherita Pizza,Main Course,2,14,6,28,12,Credit Card
+2025-06-09,2151,21,Emma,Soft Drink,Beverage,3,3,1,9,3,Credit Card
+2025-06-09,2151,21,Emma,Chicken Wings,Starter,3,11,5,33,15,Credit Card
+2025-06-09,2151,21,Emma,Coffee,Beverage,3,4,1.2,12,3.6,Credit Card
+2025-01-15,2152,5,Mason,Cheeseburger,Main Course,1,13,6,13,6,Debit Card
+2025-01-15,2152,5,Mason,Iced Tea,Beverage,1,3,1,3,1,Debit Card
+2025-01-15,2152,5,Mason,Chocolate Lava Cake,Dessert,1,9,4,9,4,Debit Card
+2025-01-15,2152,5,Mason,Coffee,Beverage,3,4,1.2,12,3.6,Debit Card
+2025-01-15,2152,5,Mason,Pasta Alfredo,Main Course,3,15,6,45,18,Debit Card
+2025-01-15,2152,5,Mason,Chocolate Lava Cake,Dessert,3,9,4,27,12,Debit Card
+2025-03-08,2153,20,Mason,Tiramisu,Dessert,2,8,3.5,16,7,Debit Card
+2025-03-08,2153,20,Mason,Pepperoni Pizza,Main Course,1,16,7,16,7,Debit Card
+2025-05-10,2154,4,Liam,Grilled Salmon,Main Course,2,20,10,40,20,Cash
+2025-05-10,2154,4,Liam,Tiramisu,Dessert,1,8,3.5,8,3.5,Cash
+2025-03-20,2155,11,Lucas,Grilled Salmon,Main Course,2,20,10,40,20,Cash
+2025-03-20,2155,11,Lucas,Coffee,Beverage,1,4,1.2,4,1.2,Cash
+2025-03-20,2155,11,Lucas,Coffee,Beverage,3,4,1.2,12,3.6,Cash
+2025-03-20,2155,11,Lucas,Coffee,Beverage,3,4,1.2,12,3.6,Cash
+2025-03-13,2156,13,Liam,French Fries,Side,2,6,2.5,12,5,Mobile Pay
+2025-03-13,2156,13,Liam,Iced Tea,Beverage,2,3,1,6,2,Mobile Pay
+2025-03-13,2156,13,Liam,Chocolate Lava Cake,Dessert,1,9,4,9,4,Mobile Pay
+2025-03-13,2156,13,Liam,Chicken Wings,Starter,1,11,5,11,5,Mobile Pay
+2025-03-13,2156,13,Liam,Pasta Alfredo,Main Course,3,15,6,45,18,Mobile Pay
+2025-03-13,2156,13,Liam,Garlic Bread,Starter,3,7,3,21,9,Mobile Pay
+2025-04-06,2157,3,Liam,Margherita Pizza,Main Course,3,14,6,42,18,Mobile Pay
+2025-04-06,2157,3,Liam,Garlic Bread,Starter,3,7,3,21,9,Mobile Pay
+2025-04-06,2157,3,Liam,Pepperoni Pizza,Main Course,2,16,7,32,14,Mobile Pay
+2025-05-13,2158,23,Ethan,Margherita Pizza,Main Course,3,14,6,42,18,Cash
+2025-05-13,2158,23,Ethan,Chicken Wings,Starter,3,11,5,33,15,Cash
+2025-05-13,2158,23,Ethan,Pepperoni Pizza,Main Course,3,16,7,48,21,Cash
+2025-05-13,2158,23,Ethan,Pepperoni Pizza,Main Course,1,16,7,16,7,Cash
+2025-05-13,2158,23,Ethan,Soft Drink,Beverage,1,3,1,3,1,Cash
+2025-06-01,2159,4,Noah,Cheeseburger,Main Course,1,13,6,13,6,Cash
+2025-06-01,2159,4,Noah,Tiramisu,Dessert,3,8,3.5,24,10.5,Cash
+2025-06-01,2159,4,Noah,Chocolate Lava Cake,Dessert,3,9,4,27,12,Cash
+2025-01-29,2160,7,Noah,French Fries,Side,2,6,2.5,12,5,Mobile Pay
+2025-01-29,2160,7,Noah,Garlic Bread,Starter,3,7,3,21,9,Mobile Pay
+2025-01-29,2160,7,Noah,Pepperoni Pizza,Main Course,2,16,7,32,14,Mobile Pay
+2025-01-29,2160,7,Noah,Coffee,Beverage,1,4,1.2,4,1.2,Mobile Pay
+2025-01-29,2160,7,Noah,Grilled Salmon,Main Course,2,20,10,40,20,Mobile Pay
+2025-06-23,2161,8,Mason,Cheeseburger,Main Course,3,13,6,39,18,Debit Card
+2025-06-23,2161,8,Mason,Grilled Salmon,Main Course,2,20,10,40,20,Debit Card
+2025-06-23,2161,8,Mason,French Fries,Side,3,6,2.5,18,7.5,Debit Card
+2025-02-16,2162,14,Ava,Coffee,Beverage,2,4,1.2,8,2.4,Debit Card
+2025-02-16,2162,14,Ava,Garlic Bread,Starter,1,7,3,7,3,Debit Card
+2025-02-16,2162,14,Ava,Pasta Alfredo,Main Course,3,15,6,45,18,Debit Card
+2025-06-30,2163,15,Liam,Chocolate Lava Cake,Dessert,3,9,4,27,12,Debit Card
+2025-06-30,2163,15,Liam,Iced Tea,Beverage,1,3,1,3,1,Debit Card
+2025-06-30,2163,15,Liam,Chicken Wings,Starter,1,11,5,11,5,Debit Card
+2025-04-12,2164,5,Liam,Cheeseburger,Main Course,2,13,6,26,12,Credit Card
+2025-04-12,2164,5,Liam,Caesar Salad,Starter,2,9,4,18,8,Credit Card
+2025-05-19,2165,21,Liam,Caesar Salad,Starter,2,9,4,18,8,Debit Card
+2025-05-19,2165,21,Liam,Coffee,Beverage,1,4,1.2,4,1.2,Debit Card
+2025-05-19,2165,21,Liam,Grilled Salmon,Main Course,1,20,10,20,10,Debit Card
+2025-05-19,2165,21,Liam,Chocolate Lava Cake,Dessert,2,9,4,18,8,Debit Card
+2025-05-19,2165,21,Liam,Cheeseburger,Main Course,2,13,6,26,12,Debit Card
+2025-05-30,2166,2,Ethan,Coffee,Beverage,1,4,1.2,4,1.2,Debit Card
+2025-05-30,2166,2,Ethan,Caesar Salad,Starter,1,9,4,9,4,Debit Card
+2025-05-30,2166,2,Ethan,Margherita Pizza,Main Course,2,14,6,28,12,Debit Card
+2025-05-30,2166,2,Ethan,Chicken Wings,Starter,1,11,5,11,5,Debit Card
+2025-03-02,2167,13,Sophia,Caesar Salad,Starter,2,9,4,18,8,Cash
+2025-03-02,2167,13,Sophia,Iced Tea,Beverage,3,3,1,9,3,Cash
+2025-03-02,2167,13,Sophia,Garlic Bread,Starter,3,7,3,21,9,Cash
+2025-02-25,2168,2,Mason,Chocolate Lava Cake,Dessert,3,9,4,27,12,Mobile Pay
+2025-02-25,2168,2,Mason,Pasta Alfredo,Main Course,3,15,6,45,18,Mobile Pay
+2025-02-25,2168,2,Mason,Pepperoni Pizza,Main Course,2,16,7,32,14,Mobile Pay
+2025-01-16,2169,8,Lucas,Garlic Bread,Starter,3,7,3,21,9,Credit Card
+2025-01-16,2169,8,Lucas,Pasta Alfredo,Main Course,1,15,6,15,6,Credit Card
+2025-01-16,2169,8,Lucas,Cheeseburger,Main Course,2,13,6,26,12,Credit Card
+2025-01-16,2169,8,Lucas,French Fries,Side,2,6,2.5,12,5,Credit Card
+2025-01-16,2169,8,Lucas,Tiramisu,Dessert,2,8,3.5,16,7,Credit Card
+2025-04-29,2170,1,Sophia,Pasta Alfredo,Main Course,1,15,6,15,6,Mobile Pay
+2025-04-29,2170,1,Sophia,Cheeseburger,Main Course,3,13,6,39,18,Mobile Pay
+2025-04-29,2170,1,Sophia,Chicken Wings,Starter,1,11,5,11,5,Mobile Pay
+2025-04-29,2170,1,Sophia,French Fries,Side,1,6,2.5,6,2.5,Mobile Pay
+2025-04-29,2170,1,Sophia,Pasta Alfredo,Main Course,2,15,6,30,12,Mobile Pay
+2025-02-04,2171,13,Emma,Margherita Pizza,Main Course,1,14,6,14,6,Debit Card
+2025-02-04,2171,13,Emma,Pasta Alfredo,Main Course,1,15,6,15,6,Debit Card
+2025-06-25,2172,12,Ethan,Garlic Bread,Starter,3,7,3,21,9,Debit Card
+2025-06-25,2172,12,Ethan,Coffee,Beverage,1,4,1.2,4,1.2,Debit Card
+2025-03-10,2173,5,Emma,Garlic Bread,Starter,1,7,3,7,3,Debit Card
+2025-03-10,2173,5,Emma,Margherita Pizza,Main Course,3,14,6,42,18,Debit Card
+2025-03-10,2173,5,Emma,Pepperoni Pizza,Main Course,2,16,7,32,14,Debit Card
+2025-03-10,2173,5,Emma,Iced Tea,Beverage,3,3,1,9,3,Debit Card
+2025-03-10,2173,5,Emma,Grilled Salmon,Main Course,3,20,10,60,30,Debit Card
+2025-03-27,2174,14,Sophia,Iced Tea,Beverage,3,3,1,9,3,Cash
+2025-03-27,2174,14,Sophia,Cheeseburger,Main Course,3,13,6,39,18,Cash
+2025-03-15,2175,17,Ava,Coffee,Beverage,2,4,1.2,8,2.4,Mobile Pay
+2025-03-15,2175,17,Ava,Garlic Bread,Starter,1,7,3,7,3,Mobile Pay
+2025-03-15,2175,17,Ava,Coffee,Beverage,2,4,1.2,8,2.4,Mobile Pay
+2025-03-15,2175,17,Ava,Tiramisu,Dessert,3,8,3.5,24,10.5,Mobile Pay
+2025-03-15,2175,17,Ava,Margherita Pizza,Main Course,3,14,6,42,18,Mobile Pay
+2025-06-11,2176,19,Ethan,Chocolate Lava Cake,Dessert,2,9,4,18,8,Mobile Pay
+2025-06-11,2176,19,Ethan,French Fries,Side,2,6,2.5,12,5,Mobile Pay
+2025-06-11,2176,19,Ethan,Iced Tea,Beverage,2,3,1,6,2,Mobile Pay
+2025-06-11,2176,19,Ethan,Cheeseburger,Main Course,1,13,6,13,6,Mobile Pay
+2025-06-11,2176,19,Ethan,Soft Drink,Beverage,2,3,1,6,2,Mobile Pay
+2025-06-11,2176,19,Ethan,French Fries,Side,2,6,2.5,12,5,Mobile Pay
+2025-06-13,2177,21,Liam,Grilled Salmon,Main Course,2,20,10,40,20,Cash
+2025-06-13,2177,21,Liam,Coffee,Beverage,3,4,1.2,12,3.6,Cash
+2025-03-25,2178,2,Ava,French Fries,Side,1,6,2.5,6,2.5,Credit Card
+2025-03-25,2178,2,Ava,Soft Drink,Beverage,3,3,1,9,3,Credit Card
+2025-03-25,2178,2,Ava,Pepperoni Pizza,Main Course,1,16,7,16,7,Credit Card
+2025-03-25,2178,2,Ava,Grilled Salmon,Main Course,2,20,10,40,20,Credit Card
+2025-03-25,2178,2,Ava,Iced Tea,Beverage,2,3,1,6,2,Credit Card
+2025-03-06,2179,15,Noah,French Fries,Side,1,6,2.5,6,2.5,Cash
+2025-03-06,2179,15,Noah,Cheeseburger,Main Course,3,13,6,39,18,Cash
+2025-03-06,2179,15,Noah,French Fries,Side,2,6,2.5,12,5,Cash
+2025-03-06,2179,15,Noah,Pasta Alfredo,Main Course,2,15,6,30,12,Cash
+2025-06-07,2180,10,Sophia,Iced Tea,Beverage,2,3,1,6,2,Mobile Pay
+2025-06-07,2180,10,Sophia,Pasta Alfredo,Main Course,1,15,6,15,6,Mobile Pay
+2025-06-22,2181,7,Sophia,Iced Tea,Beverage,3,3,1,9,3,Credit Card
+2025-06-22,2181,7,Sophia,Iced Tea,Beverage,2,3,1,6,2,Credit Card
+2025-06-22,2181,7,Sophia,Chicken Wings,Starter,3,11,5,33,15,Credit Card
+2025-06-22,2181,7,Sophia,Cheeseburger,Main Course,2,13,6,26,12,Credit Card
+2025-06-22,2181,7,Sophia,Pepperoni Pizza,Main Course,3,16,7,48,21,Credit Card
+2025-01-16,2182,10,Ethan,Pasta Alfredo,Main Course,2,15,6,30,12,Credit Card
+2025-01-16,2182,10,Ethan,Tiramisu,Dessert,1,8,3.5,8,3.5,Credit Card
+2025-03-26,2183,1,Olivia,Margherita Pizza,Main Course,1,14,6,14,6,Cash
+2025-03-26,2183,1,Olivia,Caesar Salad,Starter,1,9,4,9,4,Cash
+2025-05-18,2184,20,Ava,Chicken Wings,Starter,2,11,5,22,10,Debit Card
+2025-05-18,2184,20,Ava,Iced Tea,Beverage,3,3,1,9,3,Debit Card
+2025-01-27,2185,19,Ethan,Cheeseburger,Main Course,2,13,6,26,12,Credit Card
+2025-01-27,2185,19,Ethan,Caesar Salad,Starter,3,9,4,27,12,Credit Card
+2025-01-27,2185,19,Ethan,Tiramisu,Dessert,2,8,3.5,16,7,Credit Card
+2025-06-01,2186,14,Mason,Tiramisu,Dessert,1,8,3.5,8,3.5,Mobile Pay
+2025-06-01,2186,14,Mason,Caesar Salad,Starter,2,9,4,18,8,Mobile Pay
+2025-06-01,2186,14,Mason,Margherita Pizza,Main Course,2,14,6,28,12,Mobile Pay
+2025-06-01,2186,14,Mason,Grilled Salmon,Main Course,2,20,10,40,20,Mobile Pay
+2025-06-01,2186,14,Mason,Pepperoni Pizza,Main Course,1,16,7,16,7,Mobile Pay
+2025-06-01,2186,14,Mason,French Fries,Side,3,6,2.5,18,7.5,Mobile Pay
+2025-06-14,2187,23,Sophia,Pasta Alfredo,Main Course,3,15,6,45,18,Cash
+2025-06-14,2187,23,Sophia,Margherita Pizza,Main Course,2,14,6,28,12,Cash
+2025-06-14,2187,23,Sophia,Chicken Wings,Starter,1,11,5,11,5,Cash
+2025-06-14,2187,23,Sophia,Chicken Wings,Starter,3,11,5,33,15,Cash
+2025-06-14,2187,23,Sophia,Chicken Wings,Starter,1,11,5,11,5,Cash
+2025-06-14,2187,23,Sophia,Coffee,Beverage,3,4,1.2,12,3.6,Cash
+2025-05-05,2188,8,Sophia,Garlic Bread,Starter,2,7,3,14,6,Mobile Pay
+2025-05-05,2188,8,Sophia,Soft Drink,Beverage,1,3,1,3,1,Mobile Pay
+2025-05-05,2188,8,Sophia,Grilled Salmon,Main Course,2,20,10,40,20,Mobile Pay
+2025-06-18,2189,16,Ethan,Chocolate Lava Cake,Dessert,1,9,4,9,4,Cash
+2025-06-18,2189,16,Ethan,Soft Drink,Beverage,1,3,1,3,1,Cash
+2025-06-18,2189,16,Ethan,Pasta Alfredo,Main Course,2,15,6,30,12,Cash
+2025-06-18,2189,16,Ethan,Chicken Wings,Starter,2,11,5,22,10,Cash
+2025-06-18,2189,16,Ethan,Margherita Pizza,Main Course,2,14,6,28,12,Cash
+2025-06-18,2189,16,Ethan,Cheeseburger,Main Course,2,13,6,26,12,Cash
+2025-01-19,2190,10,Liam,Chocolate Lava Cake,Dessert,2,9,4,18,8,Cash
+2025-01-19,2190,10,Liam,Chocolate Lava Cake,Dessert,2,9,4,18,8,Cash
+2025-01-19,2190,10,Liam,Iced Tea,Beverage,3,3,1,9,3,Cash
+2025-01-19,2190,10,Liam,Caesar Salad,Starter,1,9,4,9,4,Cash
+2025-01-19,2190,10,Liam,Cheeseburger,Main Course,2,13,6,26,12,Cash
+2025-03-31,2191,22,Sophia,Tiramisu,Dessert,3,8,3.5,24,10.5,Credit Card
+2025-03-31,2191,22,Sophia,Pepperoni Pizza,Main Course,2,16,7,32,14,Credit Card
+2025-06-08,2192,25,Noah,French Fries,Side,2,6,2.5,12,5,Debit Card
+2025-06-08,2192,25,Noah,French Fries,Side,1,6,2.5,6,2.5,Debit Card
+2025-06-08,2192,25,Noah,Chicken Wings,Starter,1,11,5,11,5,Debit Card
+2025-06-08,2192,25,Noah,French Fries,Side,3,6,2.5,18,7.5,Debit Card
+2025-06-08,2192,25,Noah,Caesar Salad,Starter,2,9,4,18,8,Debit Card
+2025-04-08,2193,14,Ethan,Margherita Pizza,Main Course,1,14,6,14,6,Cash
+2025-04-08,2193,14,Ethan,Pepperoni Pizza,Main Course,2,16,7,32,14,Cash
+2025-04-08,2193,14,Ethan,Tiramisu,Dessert,1,8,3.5,8,3.5,Cash
+2025-01-09,2194,6,Ava,Pepperoni Pizza,Main Course,1,16,7,16,7,Debit Card
+2025-01-09,2194,6,Ava,Pasta Alfredo,Main Course,2,15,6,30,12,Debit Card
+2025-01-09,2194,6,Ava,Chocolate Lava Cake,Dessert,1,9,4,9,4,Debit Card
+2025-01-09,2194,6,Ava,Garlic Bread,Starter,2,7,3,14,6,Debit Card
+2025-01-09,2194,6,Ava,Pepperoni Pizza,Main Course,1,16,7,16,7,Debit Card
+2025-01-09,2194,6,Ava,Soft Drink,Beverage,2,3,1,6,2,Debit Card
+2025-02-14,2195,20,Ethan,Coffee,Beverage,3,4,1.2,12,3.6,Debit Card
+2025-02-14,2195,20,Ethan,Margherita Pizza,Main Course,2,14,6,28,12,Debit Card
+2025-02-14,2195,20,Ethan,Chocolate Lava Cake,Dessert,2,9,4,18,8,Debit Card
+2025-03-14,2196,16,Noah,French Fries,Side,2,6,2.5,12,5,Credit Card
+2025-03-14,2196,16,Noah,Tiramisu,Dessert,3,8,3.5,24,10.5,Credit Card
+2025-03-14,2196,16,Noah,Pepperoni Pizza,Main Course,2,16,7,32,14,Credit Card
+2025-03-14,2196,16,Noah,Grilled Salmon,Main Course,1,20,10,20,10,Credit Card
+2025-03-14,2196,16,Noah,Chicken Wings,Starter,2,11,5,22,10,Credit Card
+2025-03-14,2196,16,Noah,French Fries,Side,1,6,2.5,6,2.5,Credit Card
+2025-02-28,2197,2,Emma,Chicken Wings,Starter,3,11,5,33,15,Credit Card
+2025-02-28,2197,2,Emma,French Fries,Side,3,6,2.5,18,7.5,Credit Card
+2025-02-28,2197,2,Emma,Garlic Bread,Starter,1,7,3,7,3,Credit Card
+2025-02-28,2197,2,Emma,Pasta Alfredo,Main Course,1,15,6,15,6,Credit Card
+2025-05-31,2198,12,Emma,Chicken Wings,Starter,3,11,5,33,15,Mobile Pay
+2025-05-31,2198,12,Emma,Pepperoni Pizza,Main Course,1,16,7,16,7,Mobile Pay
+2025-05-31,2198,12,Emma,Grilled Salmon,Main Course,2,20,10,40,20,Mobile Pay
+2025-05-31,2198,12,Emma,Caesar Salad,Starter,2,9,4,18,8,Mobile Pay
+2025-05-31,2198,12,Emma,Margherita Pizza,Main Course,2,14,6,28,12,Mobile Pay
+2025-05-31,2198,12,Emma,Soft Drink,Beverage,1,3,1,3,1,Mobile Pay
+2025-05-25,2199,18,Ethan,Pepperoni Pizza,Main Course,1,16,7,16,7,Cash
+2025-05-25,2199,18,Ethan,Grilled Salmon,Main Course,3,20,10,60,30,Cash
+2025-02-15,2200,20,Olivia,Caesar Salad,Starter,1,9,4,9,4,Credit Card
+2025-02-15,2200,20,Olivia,Chicken Wings,Starter,1,11,5,11,5,Credit Card
+2025-02-15,2200,20,Olivia,Coffee,Beverage,1,4,1.2,4,1.2,Credit Card
+2025-02-15,2200,20,Olivia,Grilled Salmon,Main Course,3,20,10,60,30,Credit Card
+2025-02-15,2200,20,Olivia,Garlic Bread,Starter,2,7,3,14,6,Credit Card
+2025-02-15,2200,20,Olivia,Margherita Pizza,Main Course,3,14,6,42,18,Credit Card
+2025-06-23,2201,16,Noah,Pepperoni Pizza,Main Course,2,16,7,32,14,Mobile Pay
+2025-06-23,2201,16,Noah,Cheeseburger,Main Course,2,13,6,26,12,Mobile Pay
+2025-06-23,2201,16,Noah,Chocolate Lava Cake,Dessert,1,9,4,9,4,Mobile Pay
+2025-06-23,2201,16,Noah,Coffee,Beverage,2,4,1.2,8,2.4,Mobile Pay
+2025-06-23,2201,16,Noah,Margherita Pizza,Main Course,1,14,6,14,6,Mobile Pay
+2025-06-23,2201,16,Noah,Pepperoni Pizza,Main Course,3,16,7,48,21,Mobile Pay
+2025-06-23,2202,2,Ava,Margherita Pizza,Main Course,3,14,6,42,18,Credit Card
+2025-06-23,2202,2,Ava,Coffee,Beverage,3,4,1.2,12,3.6,Credit Card
+2025-06-23,2202,2,Ava,Garlic Bread,Starter,2,7,3,14,6,Credit Card
+2025-06-23,2202,2,Ava,Soft Drink,Beverage,2,3,1,6,2,Credit Card
+2025-06-23,2202,2,Ava,Grilled Salmon,Main Course,2,20,10,40,20,Credit Card
+2025-06-23,2202,2,Ava,Garlic Bread,Starter,1,7,3,7,3,Credit Card
+2025-01-09,2203,4,Ethan,Margherita Pizza,Main Course,2,14,6,28,12,Mobile Pay
+2025-01-09,2203,4,Ethan,Coffee,Beverage,1,4,1.2,4,1.2,Mobile Pay
+2025-01-09,2203,4,Ethan,Soft Drink,Beverage,3,3,1,9,3,Mobile Pay
+2025-01-09,2203,4,Ethan,Chicken Wings,Starter,1,11,5,11,5,Mobile Pay
+2025-01-09,2203,4,Ethan,Chicken Wings,Starter,1,11,5,11,5,Mobile Pay
+2025-04-21,2204,14,Ava,Caesar Salad,Starter,2,9,4,18,8,Credit Card
+2025-04-21,2204,14,Ava,Chicken Wings,Starter,3,11,5,33,15,Credit Card
+2025-04-21,2204,14,Ava,Iced Tea,Beverage,3,3,1,9,3,Credit Card
+2025-04-21,2204,14,Ava,Coffee,Beverage,1,4,1.2,4,1.2,Credit Card
+2025-04-21,2204,14,Ava,Margherita Pizza,Main Course,1,14,6,14,6,Credit Card
+2025-04-21,2204,14,Ava,Garlic Bread,Starter,1,7,3,7,3,Credit Card
+2025-01-20,2205,5,Noah,Caesar Salad,Starter,2,9,4,18,8,Debit Card
+2025-01-20,2205,5,Noah,Caesar Salad,Starter,3,9,4,27,12,Debit Card
+2025-01-20,2205,5,Noah,Coffee,Beverage,1,4,1.2,4,1.2,Debit Card
+2025-01-20,2205,5,Noah,Caesar Salad,Starter,1,9,4,9,4,Debit Card
+2025-01-20,2205,5,Noah,Grilled Salmon,Main Course,1,20,10,20,10,Debit Card
+2025-01-20,2205,5,Noah,French Fries,Side,3,6,2.5,18,7.5,Debit Card
+2025-04-06,2206,14,Lucas,Chicken Wings,Starter,1,11,5,11,5,Debit Card
+2025-04-06,2206,14,Lucas,Margherita Pizza,Main Course,3,14,6,42,18,Debit Card
+2025-04-06,2206,14,Lucas,Soft Drink,Beverage,2,3,1,6,2,Debit Card
+2025-04-06,2206,14,Lucas,Cheeseburger,Main Course,2,13,6,26,12,Debit Card
+2025-04-06,2206,14,Lucas,Caesar Salad,Starter,1,9,4,9,4,Debit Card
+2025-04-22,2207,24,Ava,Chocolate Lava Cake,Dessert,3,9,4,27,12,Credit Card
+2025-04-22,2207,24,Ava,French Fries,Side,2,6,2.5,12,5,Credit Card
+2025-04-22,2207,24,Ava,Iced Tea,Beverage,2,3,1,6,2,Credit Card
+2025-04-22,2207,24,Ava,French Fries,Side,3,6,2.5,18,7.5,Credit Card
+2025-03-23,2208,15,Emma,Soft Drink,Beverage,1,3,1,3,1,Cash
+2025-03-23,2208,15,Emma,Chocolate Lava Cake,Dessert,2,9,4,18,8,Cash
+2025-03-23,2208,15,Emma,Garlic Bread,Starter,3,7,3,21,9,Cash
+2025-05-11,2209,10,Noah,Coffee,Beverage,2,4,1.2,8,2.4,Mobile Pay
+2025-05-11,2209,10,Noah,Iced Tea,Beverage,2,3,1,6,2,Mobile Pay
+2025-03-06,2210,24,Sophia,Margherita Pizza,Main Course,1,14,6,14,6,Cash
+2025-03-06,2210,24,Sophia,Chicken Wings,Starter,1,11,5,11,5,Cash
+2025-03-06,2210,24,Sophia,Iced Tea,Beverage,2,3,1,6,2,Cash
+2025-03-06,2210,24,Sophia,Garlic Bread,Starter,2,7,3,14,6,Cash
+2025-03-06,2210,24,Sophia,Cheeseburger,Main Course,3,13,6,39,18,Cash
+2025-03-06,2210,24,Sophia,Iced Tea,Beverage,2,3,1,6,2,Cash
+2025-04-17,2211,21,Liam,Iced Tea,Beverage,3,3,1,9,3,Credit Card
+2025-04-17,2211,21,Liam,Garlic Bread,Starter,3,7,3,21,9,Credit Card
+2025-04-17,2211,21,Liam,Coffee,Beverage,2,4,1.2,8,2.4,Credit Card
+2025-01-14,2212,10,Ava,Coffee,Beverage,1,4,1.2,4,1.2,Credit Card
+2025-01-14,2212,10,Ava,French Fries,Side,2,6,2.5,12,5,Credit Card
+2025-01-14,2212,10,Ava,French Fries,Side,2,6,2.5,12,5,Credit Card
+2025-01-14,2212,10,Ava,Soft Drink,Beverage,1,3,1,3,1,Credit Card
+2025-01-14,2212,10,Ava,Pasta Alfredo,Main Course,2,15,6,30,12,Credit Card
+2025-05-17,2213,3,Ethan,Grilled Salmon,Main Course,1,20,10,20,10,Cash
+2025-05-17,2213,3,Ethan,Caesar Salad,Starter,2,9,4,18,8,Cash
+2025-05-17,2213,3,Ethan,Pasta Alfredo,Main Course,3,15,6,45,18,Cash
+2025-04-20,2214,12,Olivia,Iced Tea,Beverage,1,3,1,3,1,Cash
+2025-04-20,2214,12,Olivia,Grilled Salmon,Main Course,2,20,10,40,20,Cash
+2025-04-20,2214,12,Olivia,Iced Tea,Beverage,3,3,1,9,3,Cash
+2025-02-14,2215,10,Noah,Pepperoni Pizza,Main Course,2,16,7,32,14,Debit Card
+2025-02-14,2215,10,Noah,Grilled Salmon,Main Course,3,20,10,60,30,Debit Card
+2025-02-14,2215,10,Noah,Caesar Salad,Starter,3,9,4,27,12,Debit Card
+2025-02-14,2215,10,Noah,Soft Drink,Beverage,3,3,1,9,3,Debit Card
+2025-06-07,2216,12,Mason,Margherita Pizza,Main Course,1,14,6,14,6,Mobile Pay
+2025-06-07,2216,12,Mason,Coffee,Beverage,1,4,1.2,4,1.2,Mobile Pay
+2025-06-07,2216,12,Mason,Grilled Salmon,Main Course,2,20,10,40,20,Mobile Pay
+2025-06-07,2216,12,Mason,Soft Drink,Beverage,1,3,1,3,1,Mobile Pay
+2025-04-19,2217,8,Sophia,Garlic Bread,Starter,2,7,3,14,6,Mobile Pay
+2025-04-19,2217,8,Sophia,Iced Tea,Beverage,1,3,1,3,1,Mobile Pay
+2025-04-19,2217,8,Sophia,French Fries,Side,2,6,2.5,12,5,Mobile Pay
+2025-04-19,2217,8,Sophia,French Fries,Side,3,6,2.5,18,7.5,Mobile Pay
+2025-04-19,2217,8,Sophia,Pasta Alfredo,Main Course,1,15,6,15,6,Mobile Pay
+2025-04-19,2217,8,Sophia,Pepperoni Pizza,Main Course,1,16,7,16,7,Mobile Pay
+2025-04-16,2218,8,Mason,Coffee,Beverage,2,4,1.2,8,2.4,Debit Card
+2025-04-16,2218,8,Mason,Margherita Pizza,Main Course,1,14,6,14,6,Debit Card
+2025-04-01,2219,19,Sophia,Chicken Wings,Starter,2,11,5,22,10,Mobile Pay
+2025-04-01,2219,19,Sophia,Pasta Alfredo,Main Course,3,15,6,45,18,Mobile Pay
+2025-04-01,2219,19,Sophia,Cheeseburger,Main Course,2,13,6,26,12,Mobile Pay
+2025-04-01,2219,19,Sophia,Grilled Salmon,Main Course,3,20,10,60,30,Mobile Pay
+2025-04-01,2219,19,Sophia,Garlic Bread,Starter,1,7,3,7,3,Mobile Pay
+2025-04-03,2220,23,Ava,Tiramisu,Dessert,1,8,3.5,8,3.5,Debit Card
+2025-04-03,2220,23,Ava,Pasta Alfredo,Main Course,2,15,6,30,12,Debit Card
+2025-04-03,2220,23,Ava,Chocolate Lava Cake,Dessert,1,9,4,9,4,Debit Card
+2025-04-03,2220,23,Ava,Cheeseburger,Main Course,1,13,6,13,6,Debit Card
+2025-05-05,2221,21,Ava,Cheeseburger,Main Course,1,13,6,13,6,Debit Card
+2025-05-05,2221,21,Ava,Tiramisu,Dessert,2,8,3.5,16,7,Debit Card
+2025-01-30,2222,7,Emma,Coffee,Beverage,1,4,1.2,4,1.2,Credit Card
+2025-01-30,2222,7,Emma,Garlic Bread,Starter,3,7,3,21,9,Credit Card
+2025-01-30,2222,7,Emma,Chicken Wings,Starter,2,11,5,22,10,Credit Card
+2025-02-14,2223,24,Liam,Iced Tea,Beverage,2,3,1,6,2,Debit Card
+2025-02-14,2223,24,Liam,Pepperoni Pizza,Main Course,2,16,7,32,14,Debit Card
+2025-02-14,2223,24,Liam,Pepperoni Pizza,Main Course,3,16,7,48,21,Debit Card
+2025-02-14,2223,24,Liam,French Fries,Side,3,6,2.5,18,7.5,Debit Card
+2025-05-26,2224,24,Lucas,Chicken Wings,Starter,2,11,5,22,10,Cash
+2025-05-26,2224,24,Lucas,Tiramisu,Dessert,3,8,3.5,24,10.5,Cash
+2025-05-26,2224,24,Lucas,Garlic Bread,Starter,2,7,3,14,6,Cash
+2025-06-03,2225,8,Lucas,Iced Tea,Beverage,1,3,1,3,1,Debit Card
+2025-06-03,2225,8,Lucas,Caesar Salad,Starter,3,9,4,27,12,Debit Card
+2025-06-03,2225,8,Lucas,Margherita Pizza,Main Course,2,14,6,28,12,Debit Card
+2025-04-13,2226,9,Sophia,Caesar Salad,Starter,2,9,4,18,8,Debit Card
+2025-04-13,2226,9,Sophia,Garlic Bread,Starter,3,7,3,21,9,Debit Card
+2025-04-13,2226,9,Sophia,Garlic Bread,Starter,1,7,3,7,3,Debit Card
+2025-04-13,2226,9,Sophia,Pasta Alfredo,Main Course,2,15,6,30,12,Debit Card
+2025-04-13,2226,9,Sophia,French Fries,Side,1,6,2.5,6,2.5,Debit Card
+2025-04-13,2226,9,Sophia,Cheeseburger,Main Course,2,13,6,26,12,Debit Card
+2025-03-13,2227,13,Olivia,Tiramisu,Dessert,1,8,3.5,8,3.5,Cash
+2025-03-13,2227,13,Olivia,French Fries,Side,3,6,2.5,18,7.5,Cash
+2025-03-13,2227,13,Olivia,Soft Drink,Beverage,3,3,1,9,3,Cash
+2025-03-13,2227,13,Olivia,Tiramisu,Dessert,3,8,3.5,24,10.5,Cash
+2025-03-13,2227,13,Olivia,Coffee,Beverage,3,4,1.2,12,3.6,Cash
+2025-03-13,2227,13,Olivia,Margherita Pizza,Main Course,3,14,6,42,18,Cash
+2025-06-23,2228,15,Liam,French Fries,Side,2,6,2.5,12,5,Cash
+2025-06-23,2228,15,Liam,Caesar Salad,Starter,3,9,4,27,12,Cash
+2025-06-23,2228,15,Liam,Soft Drink,Beverage,1,3,1,3,1,Cash
+2025-06-23,2228,15,Liam,Iced Tea,Beverage,2,3,1,6,2,Cash
+2025-06-23,2228,15,Liam,Pasta Alfredo,Main Course,1,15,6,15,6,Cash
+2025-01-17,2229,14,Sophia,Cheeseburger,Main Course,2,13,6,26,12,Cash
+2025-01-17,2229,14,Sophia,Caesar Salad,Starter,1,9,4,9,4,Cash
+2025-01-17,2229,14,Sophia,Chocolate Lava Cake,Dessert,2,9,4,18,8,Cash
+2025-01-17,2229,14,Sophia,Caesar Salad,Starter,2,9,4,18,8,Cash
+2025-06-03,2230,16,Emma,Caesar Salad,Starter,3,9,4,27,12,Cash
+2025-06-03,2230,16,Emma,Grilled Salmon,Main Course,1,20,10,20,10,Cash
+2025-06-03,2230,16,Emma,Caesar Salad,Starter,1,9,4,9,4,Cash
+2025-06-03,2230,16,Emma,Margherita Pizza,Main Course,3,14,6,42,18,Cash
+2025-05-28,2231,7,Lucas,Cheeseburger,Main Course,1,13,6,13,6,Mobile Pay
+2025-05-28,2231,7,Lucas,French Fries,Side,3,6,2.5,18,7.5,Mobile Pay
+2025-05-28,2231,7,Lucas,French Fries,Side,2,6,2.5,12,5,Mobile Pay
+2025-05-28,2231,7,Lucas,Pasta Alfredo,Main Course,1,15,6,15,6,Mobile Pay
+2025-02-11,2232,4,Mason,Coffee,Beverage,2,4,1.2,8,2.4,Cash
+2025-02-11,2232,4,Mason,French Fries,Side,1,6,2.5,6,2.5,Cash
+2025-05-07,2233,21,Emma,Margherita Pizza,Main Course,1,14,6,14,6,Debit Card
+2025-05-07,2233,21,Emma,Cheeseburger,Main Course,3,13,6,39,18,Debit Card
+2025-05-07,2233,21,Emma,Margherita Pizza,Main Course,2,14,6,28,12,Debit Card
+2025-05-07,2233,21,Emma,Margherita Pizza,Main Course,2,14,6,28,12,Debit Card
+2025-05-07,2233,21,Emma,French Fries,Side,3,6,2.5,18,7.5,Debit Card
+2025-05-07,2233,21,Emma,Iced Tea,Beverage,2,3,1,6,2,Debit Card
+2025-04-06,2234,3,Lucas,Caesar Salad,Starter,1,9,4,9,4,Mobile Pay
+2025-04-06,2234,3,Lucas,Pasta Alfredo,Main Course,3,15,6,45,18,Mobile Pay
+2025-04-06,2234,3,Lucas,French Fries,Side,2,6,2.5,12,5,Mobile Pay
+2025-04-06,2234,3,Lucas,Chicken Wings,Starter,1,11,5,11,5,Mobile Pay
+2025-04-17,2235,19,Ava,French Fries,Side,3,6,2.5,18,7.5,Credit Card
+2025-04-17,2235,19,Ava,Pepperoni Pizza,Main Course,3,16,7,48,21,Credit Card
+2025-04-17,2235,19,Ava,Cheeseburger,Main Course,1,13,6,13,6,Credit Card
+2025-04-17,2235,19,Ava,Margherita Pizza,Main Course,3,14,6,42,18,Credit Card
+2025-04-17,2235,19,Ava,Grilled Salmon,Main Course,2,20,10,40,20,Credit Card
+2025-04-17,2235,19,Ava,French Fries,Side,3,6,2.5,18,7.5,Credit Card
+2025-05-15,2236,12,Lucas,Cheeseburger,Main Course,2,13,6,26,12,Credit Card
+2025-05-15,2236,12,Lucas,Garlic Bread,Starter,3,7,3,21,9,Credit Card
+2025-04-05,2237,20,Lucas,Cheeseburger,Main Course,2,13,6,26,12,Credit Card
+2025-04-05,2237,20,Lucas,Garlic Bread,Starter,2,7,3,14,6,Credit Card
+2025-04-05,2237,20,Lucas,Margherita Pizza,Main Course,3,14,6,42,18,Credit Card
+2025-04-05,2237,20,Lucas,Chicken Wings,Starter,3,11,5,33,15,Credit Card
+2025-06-08,2238,4,Sophia,Iced Tea,Beverage,3,3,1,9,3,Mobile Pay
+2025-06-08,2238,4,Sophia,Coffee,Beverage,1,4,1.2,4,1.2,Mobile Pay
+2025-06-08,2238,4,Sophia,Chicken Wings,Starter,1,11,5,11,5,Mobile Pay
+2025-06-08,2238,4,Sophia,Pasta Alfredo,Main Course,1,15,6,15,6,Mobile Pay
+2025-01-28,2239,8,Ethan,Pasta Alfredo,Main Course,2,15,6,30,12,Debit Card
+2025-01-28,2239,8,Ethan,Tiramisu,Dessert,2,8,3.5,16,7,Debit Card
+2025-01-28,2239,8,Ethan,Tiramisu,Dessert,2,8,3.5,16,7,Debit Card
+2025-01-07,2240,16,Olivia,Cheeseburger,Main Course,3,13,6,39,18,Mobile Pay
+2025-01-07,2240,16,Olivia,Chicken Wings,Starter,1,11,5,11,5,Mobile Pay
+2025-01-07,2240,16,Olivia,Tiramisu,Dessert,2,8,3.5,16,7,Mobile Pay
+2025-03-30,2241,8,Noah,Chocolate Lava Cake,Dessert,2,9,4,18,8,Debit Card
+2025-03-30,2241,8,Noah,Cheeseburger,Main Course,2,13,6,26,12,Debit Card
+2025-03-30,2241,8,Noah,Soft Drink,Beverage,2,3,1,6,2,Debit Card
+2025-03-03,2242,11,Emma,French Fries,Side,2,6,2.5,12,5,Mobile Pay
+2025-03-03,2242,11,Emma,Soft Drink,Beverage,2,3,1,6,2,Mobile Pay
+2025-03-03,2242,11,Emma,Coffee,Beverage,2,4,1.2,8,2.4,Mobile Pay
+2025-02-20,2243,12,Mason,Pepperoni Pizza,Main Course,3,16,7,48,21,Mobile Pay
+2025-02-20,2243,12,Mason,Iced Tea,Beverage,2,3,1,6,2,Mobile Pay
+2025-02-20,2243,12,Mason,Pasta Alfredo,Main Course,1,15,6,15,6,Mobile Pay
+2025-02-20,2243,12,Mason,Margherita Pizza,Main Course,2,14,6,28,12,Mobile Pay
+2025-02-20,2243,12,Mason,Pasta Alfredo,Main Course,1,15,6,15,6,Mobile Pay
+2025-02-20,2243,12,Mason,Pasta Alfredo,Main Course,2,15,6,30,12,Mobile Pay
+2025-04-02,2244,10,Ethan,Grilled Salmon,Main Course,3,20,10,60,30,Credit Card
+2025-04-02,2244,10,Ethan,Chicken Wings,Starter,1,11,5,11,5,Credit Card
+2025-06-13,2245,22,Olivia,Pepperoni Pizza,Main Course,2,16,7,32,14,Cash
+2025-06-13,2245,22,Olivia,Grilled Salmon,Main Course,1,20,10,20,10,Cash
+2025-06-13,2245,22,Olivia,Margherita Pizza,Main Course,1,14,6,14,6,Cash
+2025-06-13,2245,22,Olivia,Pasta Alfredo,Main Course,2,15,6,30,12,Cash
+2025-06-24,2246,11,Olivia,Grilled Salmon,Main Course,1,20,10,20,10,Mobile Pay
+2025-06-24,2246,11,Olivia,Pepperoni Pizza,Main Course,1,16,7,16,7,Mobile Pay
+2025-06-24,2246,11,Olivia,Caesar Salad,Starter,2,9,4,18,8,Mobile Pay
+2025-06-24,2246,11,Olivia,Chicken Wings,Starter,3,11,5,33,15,Mobile Pay
+2025-03-15,2247,17,Emma,Caesar Salad,Starter,2,9,4,18,8,Credit Card
+2025-03-15,2247,17,Emma,Pepperoni Pizza,Main Course,2,16,7,32,14,Credit Card
+2025-03-15,2247,17,Emma,Tiramisu,Dessert,3,8,3.5,24,10.5,Credit Card
+2025-03-15,2247,17,Emma,Iced Tea,Beverage,3,3,1,9,3,Credit Card
+2025-03-15,2247,17,Emma,Garlic Bread,Starter,2,7,3,14,6,Credit Card
+2025-02-20,2248,10,Mason,Tiramisu,Dessert,1,8,3.5,8,3.5,Debit Card
+2025-02-20,2248,10,Mason,Grilled Salmon,Main Course,3,20,10,60,30,Debit Card
+2025-02-20,2248,10,Mason,French Fries,Side,3,6,2.5,18,7.5,Debit Card
+2025-02-24,2249,23,Noah,Margherita Pizza,Main Course,2,14,6,28,12,Debit Card
+2025-02-24,2249,23,Noah,French Fries,Side,3,6,2.5,18,7.5,Debit Card
+2025-02-24,2249,23,Noah,Garlic Bread,Starter,2,7,3,14,6,Debit Card
+2025-02-24,2249,23,Noah,Iced Tea,Beverage,1,3,1,3,1,Debit Card
+2025-02-24,2249,23,Noah,Chocolate Lava Cake,Dessert,2,9,4,18,8,Debit Card
+2025-02-04,2250,12,Emma,Soft Drink,Beverage,1,3,1,3,1,Mobile Pay
+2025-02-04,2250,12,Emma,Margherita Pizza,Main Course,2,14,6,28,12,Mobile Pay
+2025-02-04,2250,12,Emma,Cheeseburger,Main Course,3,13,6,39,18,Mobile Pay
+2025-06-07,2251,4,Lucas,Chicken Wings,Starter,2,11,5,22,10,Mobile Pay
+2025-06-07,2251,4,Lucas,Chicken Wings,Starter,2,11,5,22,10,Mobile Pay
+2025-06-07,2251,4,Lucas,Chocolate Lava Cake,Dessert,1,9,4,9,4,Mobile Pay
+2025-06-07,2251,4,Lucas,Coffee,Beverage,2,4,1.2,8,2.4,Mobile Pay
+2025-06-07,2251,4,Lucas,Caesar Salad,Starter,2,9,4,18,8,Mobile Pay
+2025-05-24,2252,1,Ava,Soft Drink,Beverage,3,3,1,9,3,Mobile Pay
+2025-05-24,2252,1,Ava,French Fries,Side,1,6,2.5,6,2.5,Mobile Pay
+2025-05-24,2252,1,Ava,Coffee,Beverage,1,4,1.2,4,1.2,Mobile Pay
+2025-05-24,2252,1,Ava,Chicken Wings,Starter,3,11,5,33,15,Mobile Pay
+2025-05-24,2252,1,Ava,Coffee,Beverage,3,4,1.2,12,3.6,Mobile Pay
+2025-05-24,2252,1,Ava,Chocolate Lava Cake,Dessert,2,9,4,18,8,Mobile Pay
+2025-01-23,2253,13,Noah,Caesar Salad,Starter,1,9,4,9,4,Debit Card
+2025-01-23,2253,13,Noah,Tiramisu,Dessert,1,8,3.5,8,3.5,Debit Card
+2025-01-23,2253,13,Noah,French Fries,Side,1,6,2.5,6,2.5,Debit Card
+2025-01-23,2253,13,Noah,Chicken Wings,Starter,1,11,5,11,5,Debit Card
+2025-01-23,2253,13,Noah,Margherita Pizza,Main Course,2,14,6,28,12,Debit Card
+2025-01-23,2253,13,Noah,Margherita Pizza,Main Course,1,14,6,14,6,Debit Card
+2025-01-01,2254,16,Mason,Caesar Salad,Starter,2,9,4,18,8,Credit Card
+2025-01-01,2254,16,Mason,Margherita Pizza,Main Course,2,14,6,28,12,Credit Card
+2025-01-01,2254,16,Mason,Chicken Wings,Starter,2,11,5,22,10,Credit Card
+2025-01-01,2254,16,Mason,Coffee,Beverage,1,4,1.2,4,1.2,Credit Card
+2025-05-29,2255,14,Olivia,Chocolate Lava Cake,Dessert,1,9,4,9,4,Debit Card
+2025-05-29,2255,14,Olivia,Margherita Pizza,Main Course,3,14,6,42,18,Debit Card
+2025-05-29,2255,14,Olivia,Iced Tea,Beverage,1,3,1,3,1,Debit Card
+2025-02-28,2256,12,Sophia,Pepperoni Pizza,Main Course,3,16,7,48,21,Cash
+2025-02-28,2256,12,Sophia,French Fries,Side,3,6,2.5,18,7.5,Cash
+2025-02-28,2256,12,Sophia,Chicken Wings,Starter,2,11,5,22,10,Cash
+2025-02-28,2256,12,Sophia,Iced Tea,Beverage,1,3,1,3,1,Cash
+2025-02-28,2256,12,Sophia,Iced Tea,Beverage,3,3,1,9,3,Cash
+2025-02-28,2256,12,Sophia,Tiramisu,Dessert,1,8,3.5,8,3.5,Cash
+2025-01-22,2257,20,Mason,Cheeseburger,Main Course,2,13,6,26,12,Mobile Pay
+2025-01-22,2257,20,Mason,Tiramisu,Dessert,1,8,3.5,8,3.5,Mobile Pay
+2025-01-22,2257,20,Mason,Tiramisu,Dessert,1,8,3.5,8,3.5,Mobile Pay
+2025-01-22,2257,20,Mason,Garlic Bread,Starter,2,7,3,14,6,Mobile Pay
+2025-04-24,2258,1,Liam,Garlic Bread,Starter,1,7,3,7,3,Cash
+2025-04-24,2258,1,Liam,Iced Tea,Beverage,2,3,1,6,2,Cash
+2025-04-24,2258,1,Liam,Margherita Pizza,Main Course,2,14,6,28,12,Cash
+2025-04-24,2258,1,Liam,Coffee,Beverage,3,4,1.2,12,3.6,Cash
+2025-04-24,2258,1,Liam,Cheeseburger,Main Course,3,13,6,39,18,Cash
+2025-04-24,2258,1,Liam,Tiramisu,Dessert,3,8,3.5,24,10.5,Cash
+2025-05-05,2259,3,Noah,Soft Drink,Beverage,1,3,1,3,1,Credit Card
+2025-05-05,2259,3,Noah,Cheeseburger,Main Course,1,13,6,13,6,Credit Card
+2025-05-05,2259,3,Noah,Garlic Bread,Starter,2,7,3,14,6,Credit Card
+2025-05-05,2259,3,Noah,Pasta Alfredo,Main Course,1,15,6,15,6,Credit Card
+2025-04-07,2260,14,Mason,Grilled Salmon,Main Course,2,20,10,40,20,Cash
+2025-04-07,2260,14,Mason,Cheeseburger,Main Course,1,13,6,13,6,Cash
+2025-04-07,2260,14,Mason,Soft Drink,Beverage,1,3,1,3,1,Cash
+2025-03-05,2261,8,Sophia,Pasta Alfredo,Main Course,3,15,6,45,18,Debit Card
+2025-03-05,2261,8,Sophia,Coffee,Beverage,1,4,1.2,4,1.2,Debit Card
+2025-05-31,2262,20,Mason,Coffee,Beverage,1,4,1.2,4,1.2,Mobile Pay
+2025-05-31,2262,20,Mason,Pasta Alfredo,Main Course,2,15,6,30,12,Mobile Pay
+2025-05-31,2262,20,Mason,Coffee,Beverage,1,4,1.2,4,1.2,Mobile Pay
+2025-05-31,2262,20,Mason,Coffee,Beverage,3,4,1.2,12,3.6,Mobile Pay
+2025-02-18,2263,18,Sophia,Coffee,Beverage,2,4,1.2,8,2.4,Mobile Pay
+2025-02-18,2263,18,Sophia,Cheeseburger,Main Course,2,13,6,26,12,Mobile Pay
+2025-02-18,2263,18,Sophia,Iced Tea,Beverage,3,3,1,9,3,Mobile Pay
+2025-02-18,2263,18,Sophia,Cheeseburger,Main Course,2,13,6,26,12,Mobile Pay
+2025-02-18,2263,18,Sophia,Pasta Alfredo,Main Course,1,15,6,15,6,Mobile Pay
+2025-02-18,2263,18,Sophia,French Fries,Side,1,6,2.5,6,2.5,Mobile Pay
+2025-04-18,2264,3,Mason,Garlic Bread,Starter,2,7,3,14,6,Cash
+2025-04-18,2264,3,Mason,Cheeseburger,Main Course,1,13,6,13,6,Cash
+2025-04-18,2264,3,Mason,Coffee,Beverage,3,4,1.2,12,3.6,Cash
+2025-06-24,2265,4,Ava,Iced Tea,Beverage,3,3,1,9,3,Mobile Pay
+2025-06-24,2265,4,Ava,Pasta Alfredo,Main Course,3,15,6,45,18,Mobile Pay
+2025-06-24,2265,4,Ava,Tiramisu,Dessert,3,8,3.5,24,10.5,Mobile Pay
+2025-06-24,2265,4,Ava,Pepperoni Pizza,Main Course,2,16,7,32,14,Mobile Pay
+2025-05-02,2266,5,Ava,Pasta Alfredo,Main Course,2,15,6,30,12,Debit Card
+2025-05-02,2266,5,Ava,French Fries,Side,3,6,2.5,18,7.5,Debit Card
+2025-05-02,2266,5,Ava,French Fries,Side,1,6,2.5,6,2.5,Debit Card
+2025-05-02,2266,5,Ava,Caesar Salad,Starter,2,9,4,18,8,Debit Card
+2025-01-15,2267,23,Noah,Coffee,Beverage,1,4,1.2,4,1.2,Mobile Pay
+2025-01-15,2267,23,Noah,Margherita Pizza,Main Course,2,14,6,28,12,Mobile Pay
+2025-01-14,2268,14,Emma,Garlic Bread,Starter,2,7,3,14,6,Debit Card
+2025-01-14,2268,14,Emma,Margherita Pizza,Main Course,3,14,6,42,18,Debit Card
+2025-01-14,2268,14,Emma,Pepperoni Pizza,Main Course,2,16,7,32,14,Debit Card
+2025-01-16,2269,23,Ethan,Iced Tea,Beverage,2,3,1,6,2,Debit Card
+2025-01-16,2269,23,Ethan,Cheeseburger,Main Course,2,13,6,26,12,Debit Card
+2025-01-07,2270,2,Noah,Grilled Salmon,Main Course,3,20,10,60,30,Credit Card
+2025-01-07,2270,2,Noah,Coffee,Beverage,3,4,1.2,12,3.6,Credit Card
+2025-01-07,2270,2,Noah,Chicken Wings,Starter,3,11,5,33,15,Credit Card
+2025-01-07,2270,2,Noah,Iced Tea,Beverage,1,3,1,3,1,Credit Card
+2025-01-07,2270,2,Noah,Grilled Salmon,Main Course,1,20,10,20,10,Credit Card
+2025-01-07,2270,2,Noah,Pepperoni Pizza,Main Course,1,16,7,16,7,Credit Card
+2025-04-22,2271,12,Ethan,Pasta Alfredo,Main Course,1,15,6,15,6,Credit Card
+2025-04-22,2271,12,Ethan,Pasta Alfredo,Main Course,3,15,6,45,18,Credit Card
+2025-04-22,2271,12,Ethan,Margherita Pizza,Main Course,2,14,6,28,12,Credit Card
+2025-04-22,2271,12,Ethan,Caesar Salad,Starter,3,9,4,27,12,Credit Card
+2025-04-22,2271,12,Ethan,Iced Tea,Beverage,1,3,1,3,1,Credit Card
+2025-04-22,2271,12,Ethan,Coffee,Beverage,2,4,1.2,8,2.4,Credit Card
+2025-06-18,2272,14,Liam,Chicken Wings,Starter,3,11,5,33,15,Debit Card
+2025-06-18,2272,14,Liam,Tiramisu,Dessert,1,8,3.5,8,3.5,Debit Card
+2025-03-28,2273,2,Liam,Grilled Salmon,Main Course,3,20,10,60,30,Mobile Pay
+2025-03-28,2273,2,Liam,Cheeseburger,Main Course,3,13,6,39,18,Mobile Pay
+2025-03-28,2273,2,Liam,Chicken Wings,Starter,1,11,5,11,5,Mobile Pay
+2025-03-28,2273,2,Liam,French Fries,Side,2,6,2.5,12,5,Mobile Pay
+2025-03-28,2273,2,Liam,Soft Drink,Beverage,3,3,1,9,3,Mobile Pay
+2025-03-28,2273,2,Liam,Caesar Salad,Starter,1,9,4,9,4,Mobile Pay
+2025-02-06,2274,22,Emma,Tiramisu,Dessert,1,8,3.5,8,3.5,Cash
+2025-02-06,2274,22,Emma,Margherita Pizza,Main Course,2,14,6,28,12,Cash
+2025-02-06,2274,22,Emma,Cheeseburger,Main Course,2,13,6,26,12,Cash
+2025-02-06,2274,22,Emma,Pasta Alfredo,Main Course,1,15,6,15,6,Cash
+2025-02-06,2274,22,Emma,Grilled Salmon,Main Course,2,20,10,40,20,Cash
+2025-06-25,2275,25,Olivia,Garlic Bread,Starter,2,7,3,14,6,Debit Card
+2025-06-25,2275,25,Olivia,Chocolate Lava Cake,Dessert,1,9,4,9,4,Debit Card
+2025-06-25,2275,25,Olivia,Iced Tea,Beverage,2,3,1,6,2,Debit Card
+2025-06-25,2275,25,Olivia,Garlic Bread,Starter,1,7,3,7,3,Debit Card
+2025-06-01,2276,9,Ethan,Chocolate Lava Cake,Dessert,1,9,4,9,4,Cash
+2025-06-01,2276,9,Ethan,Caesar Salad,Starter,2,9,4,18,8,Cash
+2025-06-01,2276,9,Ethan,Iced Tea,Beverage,2,3,1,6,2,Cash
+2025-06-12,2277,18,Olivia,Pepperoni Pizza,Main Course,1,16,7,16,7,Mobile Pay
+2025-06-12,2277,18,Olivia,Iced Tea,Beverage,3,3,1,9,3,Mobile Pay
+2025-06-12,2277,18,Olivia,Caesar Salad,Starter,2,9,4,18,8,Mobile Pay
+2025-01-03,2278,12,Lucas,Margherita Pizza,Main Course,3,14,6,42,18,Debit Card
+2025-01-03,2278,12,Lucas,Iced Tea,Beverage,1,3,1,3,1,Debit Card
+2025-04-30,2279,10,Ava,Chicken Wings,Starter,1,11,5,11,5,Cash
+2025-04-30,2279,10,Ava,Grilled Salmon,Main Course,2,20,10,40,20,Cash
+2025-03-25,2280,21,Sophia,Margherita Pizza,Main Course,2,14,6,28,12,Credit Card
+2025-03-25,2280,21,Sophia,Chocolate Lava Cake,Dessert,2,9,4,18,8,Credit Card
+2025-03-25,2280,21,Sophia,Margherita Pizza,Main Course,2,14,6,28,12,Credit Card
+2025-06-26,2281,20,Emma,Chocolate Lava Cake,Dessert,1,9,4,9,4,Debit Card
+2025-06-26,2281,20,Emma,French Fries,Side,1,6,2.5,6,2.5,Debit Card
+2025-06-26,2281,20,Emma,Iced Tea,Beverage,2,3,1,6,2,Debit Card
+2025-03-04,2282,14,Ava,Tiramisu,Dessert,3,8,3.5,24,10.5,Debit Card
+2025-03-04,2282,14,Ava,Chicken Wings,Starter,2,11,5,22,10,Debit Card
+2025-03-04,2282,14,Ava,Pepperoni Pizza,Main Course,2,16,7,32,14,Debit Card
+2025-02-17,2283,20,Emma,Grilled Salmon,Main Course,2,20,10,40,20,Debit Card
+2025-02-17,2283,20,Emma,Chicken Wings,Starter,3,11,5,33,15,Debit Card
+2025-02-17,2283,20,Emma,Coffee,Beverage,1,4,1.2,4,1.2,Debit Card
+2025-06-21,2284,10,Liam,Grilled Salmon,Main Course,2,20,10,40,20,Cash
+2025-06-21,2284,10,Liam,Chocolate Lava Cake,Dessert,2,9,4,18,8,Cash
+2025-06-21,2284,10,Liam,Caesar Salad,Starter,2,9,4,18,8,Cash
+2025-06-21,2284,10,Liam,Coffee,Beverage,3,4,1.2,12,3.6,Cash
+2025-06-21,2284,10,Liam,Cheeseburger,Main Course,3,13,6,39,18,Cash
+2025-03-22,2285,21,Liam,Grilled Salmon,Main Course,1,20,10,20,10,Mobile Pay
+2025-03-22,2285,21,Liam,Margherita Pizza,Main Course,3,14,6,42,18,Mobile Pay
+2025-03-22,2285,21,Liam,Chicken Wings,Starter,2,11,5,22,10,Mobile Pay
+2025-05-13,2286,6,Noah,Tiramisu,Dessert,2,8,3.5,16,7,Mobile Pay
+2025-05-13,2286,6,Noah,Pepperoni Pizza,Main Course,3,16,7,48,21,Mobile Pay
+2025-05-13,2286,6,Noah,Chicken Wings,Starter,1,11,5,11,5,Mobile Pay
+2025-04-14,2287,17,Ava,Chocolate Lava Cake,Dessert,3,9,4,27,12,Debit Card
+2025-04-14,2287,17,Ava,Pasta Alfredo,Main Course,2,15,6,30,12,Debit Card
+2025-04-14,2287,17,Ava,Chicken Wings,Starter,2,11,5,22,10,Debit Card
+2025-04-14,2287,17,Ava,Margherita Pizza,Main Course,2,14,6,28,12,Debit Card
+2025-01-13,2288,15,Noah,Iced Tea,Beverage,1,3,1,3,1,Debit Card
+2025-01-13,2288,15,Noah,Iced Tea,Beverage,3,3,1,9,3,Debit Card
+2025-01-13,2288,15,Noah,Caesar Salad,Starter,1,9,4,9,4,Debit Card
+2025-01-13,2288,15,Noah,Garlic Bread,Starter,1,7,3,7,3,Debit Card
+2025-03-12,2289,15,Ava,Chicken Wings,Starter,2,11,5,22,10,Credit Card
+2025-03-12,2289,15,Ava,Tiramisu,Dessert,1,8,3.5,8,3.5,Credit Card
+2025-03-12,2289,15,Ava,Grilled Salmon,Main Course,3,20,10,60,30,Credit Card
+2025-03-12,2289,15,Ava,French Fries,Side,2,6,2.5,12,5,Credit Card
+2025-03-12,2289,15,Ava,Garlic Bread,Starter,1,7,3,7,3,Credit Card
+2025-04-06,2290,3,Olivia,Margherita Pizza,Main Course,1,14,6,14,6,Cash
+2025-04-06,2290,3,Olivia,Grilled Salmon,Main Course,3,20,10,60,30,Cash
+2025-04-06,2290,3,Olivia,Garlic Bread,Starter,2,7,3,14,6,Cash
+2025-04-06,2290,3,Olivia,Chicken Wings,Starter,3,11,5,33,15,Cash
+2025-03-20,2291,24,Sophia,Tiramisu,Dessert,2,8,3.5,16,7,Debit Card
+2025-03-20,2291,24,Sophia,Chicken Wings,Starter,2,11,5,22,10,Debit Card
+2025-05-17,2292,23,Noah,Chocolate Lava Cake,Dessert,3,9,4,27,12,Credit Card
+2025-05-17,2292,23,Noah,French Fries,Side,3,6,2.5,18,7.5,Credit Card
+2025-05-17,2292,23,Noah,Coffee,Beverage,1,4,1.2,4,1.2,Credit Card
+2025-05-17,2292,23,Noah,Caesar Salad,Starter,1,9,4,9,4,Credit Card
+2025-05-17,2292,23,Noah,Coffee,Beverage,2,4,1.2,8,2.4,Credit Card
+2025-05-17,2292,23,Noah,Garlic Bread,Starter,1,7,3,7,3,Credit Card
+2025-01-15,2293,9,Mason,Margherita Pizza,Main Course,1,14,6,14,6,Cash
+2025-01-15,2293,9,Mason,Garlic Bread,Starter,1,7,3,7,3,Cash
+2025-04-29,2294,5,Lucas,Tiramisu,Dessert,2,8,3.5,16,7,Debit Card
+2025-04-29,2294,5,Lucas,Coffee,Beverage,3,4,1.2,12,3.6,Debit Card
+2025-04-29,2294,5,Lucas,Garlic Bread,Starter,2,7,3,14,6,Debit Card
+2025-04-29,2294,5,Lucas,Grilled Salmon,Main Course,3,20,10,60,30,Debit Card
+2025-04-29,2294,5,Lucas,Chocolate Lava Cake,Dessert,1,9,4,9,4,Debit Card
+2025-05-13,2295,24,Lucas,Pasta Alfredo,Main Course,3,15,6,45,18,Cash
+2025-05-13,2295,24,Lucas,Caesar Salad,Starter,1,9,4,9,4,Cash
+2025-05-13,2295,24,Lucas,Garlic Bread,Starter,1,7,3,7,3,Cash
+2025-05-13,2295,24,Lucas,Pasta Alfredo,Main Course,2,15,6,30,12,Cash
+2025-05-13,2295,24,Lucas,Pepperoni Pizza,Main Course,3,16,7,48,21,Cash
+2025-03-31,2296,20,Olivia,Chicken Wings,Starter,1,11,5,11,5,Cash
+2025-03-31,2296,20,Olivia,Grilled Salmon,Main Course,1,20,10,20,10,Cash
+2025-03-31,2296,20,Olivia,Chicken Wings,Starter,2,11,5,22,10,Cash
+2025-03-31,2296,20,Olivia,Iced Tea,Beverage,3,3,1,9,3,Cash
+2025-03-31,2296,20,Olivia,Margherita Pizza,Main Course,1,14,6,14,6,Cash
+2025-03-31,2296,20,Olivia,Garlic Bread,Starter,2,7,3,14,6,Cash
+2025-01-30,2297,23,Sophia,Iced Tea,Beverage,3,3,1,9,3,Cash
+2025-01-30,2297,23,Sophia,Coffee,Beverage,2,4,1.2,8,2.4,Cash
+2025-01-30,2297,23,Sophia,Soft Drink,Beverage,1,3,1,3,1,Cash
+2025-01-30,2297,23,Sophia,Grilled Salmon,Main Course,3,20,10,60,30,Cash
+2025-01-30,2297,23,Sophia,Grilled Salmon,Main Course,2,20,10,40,20,Cash
+2025-01-30,2297,23,Sophia,Garlic Bread,Starter,2,7,3,14,6,Cash
+2025-06-08,2298,17,Emma,Pasta Alfredo,Main Course,2,15,6,30,12,Mobile Pay
+2025-06-08,2298,17,Emma,Caesar Salad,Starter,3,9,4,27,12,Mobile Pay
+2025-06-08,2298,17,Emma,Garlic Bread,Starter,3,7,3,21,9,Mobile Pay
+2025-06-08,2298,17,Emma,Coffee,Beverage,3,4,1.2,12,3.6,Mobile Pay
+2025-06-08,2298,17,Emma,Garlic Bread,Starter,1,7,3,7,3,Mobile Pay
+2025-03-18,2299,5,Mason,Coffee,Beverage,3,4,1.2,12,3.6,Cash
+2025-03-18,2299,5,Mason,Chicken Wings,Starter,1,11,5,11,5,Cash
+2025-03-18,2299,5,Mason,Pepperoni Pizza,Main Course,2,16,7,32,14,Cash
+2025-03-18,2299,5,Mason,Grilled Salmon,Main Course,3,20,10,60,30,Cash
+2025-03-18,2299,5,Mason,Cheeseburger,Main Course,1,13,6,13,6,Cash
+2025-03-18,2299,5,Mason,Chocolate Lava Cake,Dessert,1,9,4,9,4,Cash
+2025-01-05,2300,18,Noah,Pepperoni Pizza,Main Course,2,16,7,32,14,Mobile Pay
+2025-01-05,2300,18,Noah,Soft Drink,Beverage,3,3,1,9,3,Mobile Pay
+2025-02-06,2301,23,Noah,Chocolate Lava Cake,Dessert,1,9,4,9,4,Credit Card
+2025-02-06,2301,23,Noah,Garlic Bread,Starter,1,7,3,7,3,Credit Card
+2025-02-06,2301,23,Noah,Margherita Pizza,Main Course,3,14,6,42,18,Credit Card
+2025-02-06,2301,23,Noah,Pasta Alfredo,Main Course,1,15,6,15,6,Credit Card
+2025-02-06,2301,23,Noah,Pepperoni Pizza,Main Course,1,16,7,16,7,Credit Card
+2025-02-06,2301,23,Noah,Coffee,Beverage,1,4,1.2,4,1.2,Credit Card
+2025-04-28,2302,25,Ethan,Iced Tea,Beverage,1,3,1,3,1,Cash
+2025-04-28,2302,25,Ethan,Margherita Pizza,Main Course,3,14,6,42,18,Cash
+2025-04-28,2302,25,Ethan,Grilled Salmon,Main Course,2,20,10,40,20,Cash
+2025-04-20,2303,19,Liam,Caesar Salad,Starter,2,9,4,18,8,Credit Card
+2025-04-20,2303,19,Liam,Chocolate Lava Cake,Dessert,1,9,4,9,4,Credit Card
+2025-04-20,2303,19,Liam,Caesar Salad,Starter,1,9,4,9,4,Credit Card
+2025-04-20,2303,19,Liam,Soft Drink,Beverage,1,3,1,3,1,Credit Card
+2025-01-27,2304,4,Ava,Pasta Alfredo,Main Course,2,15,6,30,12,Credit Card
+2025-01-27,2304,4,Ava,Caesar Salad,Starter,2,9,4,18,8,Credit Card
+2025-01-27,2304,4,Ava,Margherita Pizza,Main Course,3,14,6,42,18,Credit Card
+2025-01-27,2304,4,Ava,Soft Drink,Beverage,3,3,1,9,3,Credit Card
+2025-01-27,2304,4,Ava,Grilled Salmon,Main Course,3,20,10,60,30,Credit Card
+2025-01-27,2304,4,Ava,Chicken Wings,Starter,1,11,5,11,5,Credit Card
+2025-06-16,2305,13,Emma,Pepperoni Pizza,Main Course,1,16,7,16,7,Mobile Pay
+2025-06-16,2305,13,Emma,Pepperoni Pizza,Main Course,2,16,7,32,14,Mobile Pay
+2025-06-16,2305,13,Emma,Soft Drink,Beverage,1,3,1,3,1,Mobile Pay
+2025-05-19,2306,9,Sophia,French Fries,Side,2,6,2.5,12,5,Mobile Pay
+2025-05-19,2306,9,Sophia,Pasta Alfredo,Main Course,3,15,6,45,18,Mobile Pay
+2025-05-03,2307,24,Emma,Iced Tea,Beverage,1,3,1,3,1,Credit Card
+2025-05-03,2307,24,Emma,Garlic Bread,Starter,2,7,3,14,6,Credit Card
+2025-05-03,2307,24,Emma,Garlic Bread,Starter,3,7,3,21,9,Credit Card
+2025-01-12,2308,15,Ethan,Grilled Salmon,Main Course,3,20,10,60,30,Credit Card
+2025-01-12,2308,15,Ethan,Garlic Bread,Starter,1,7,3,7,3,Credit Card
+2025-01-20,2309,15,Noah,Margherita Pizza,Main Course,3,14,6,42,18,Debit Card
+2025-01-20,2309,15,Noah,Grilled Salmon,Main Course,1,20,10,20,10,Debit Card
+2025-05-26,2310,22,Liam,Tiramisu,Dessert,1,8,3.5,8,3.5,Mobile Pay
+2025-05-26,2310,22,Liam,Tiramisu,Dessert,1,8,3.5,8,3.5,Mobile Pay
+2025-05-26,2310,22,Liam,Caesar Salad,Starter,3,9,4,27,12,Mobile Pay
+2025-05-26,2310,22,Liam,Garlic Bread,Starter,2,7,3,14,6,Mobile Pay
+2025-04-04,2311,12,Lucas,Soft Drink,Beverage,2,3,1,6,2,Cash
+2025-04-04,2311,12,Lucas,Chocolate Lava Cake,Dessert,3,9,4,27,12,Cash
+2025-05-19,2312,4,Ethan,Iced Tea,Beverage,3,3,1,9,3,Debit Card
+2025-05-19,2312,4,Ethan,Soft Drink,Beverage,1,3,1,3,1,Debit Card
+2025-05-03,2313,5,Emma,Coffee,Beverage,3,4,1.2,12,3.6,Debit Card
+2025-05-03,2313,5,Emma,Grilled Salmon,Main Course,2,20,10,40,20,Debit Card
+2025-05-03,2313,5,Emma,Tiramisu,Dessert,2,8,3.5,16,7,Debit Card
+2025-05-03,2313,5,Emma,Grilled Salmon,Main Course,2,20,10,40,20,Debit Card
+2025-02-14,2314,4,Lucas,Tiramisu,Dessert,1,8,3.5,8,3.5,Mobile Pay
+2025-02-14,2314,4,Lucas,Caesar Salad,Starter,2,9,4,18,8,Mobile Pay
+2025-06-14,2315,6,Lucas,Soft Drink,Beverage,2,3,1,6,2,Credit Card
+2025-06-14,2315,6,Lucas,Cheeseburger,Main Course,3,13,6,39,18,Credit Card
+2025-06-10,2316,3,Emma,Chicken Wings,Starter,2,11,5,22,10,Cash
+2025-06-10,2316,3,Emma,Iced Tea,Beverage,2,3,1,6,2,Cash
+2025-06-10,2316,3,Emma,Pepperoni Pizza,Main Course,1,16,7,16,7,Cash
+2025-06-10,2316,3,Emma,Garlic Bread,Starter,1,7,3,7,3,Cash
+2025-06-10,2316,3,Emma,Margherita Pizza,Main Course,3,14,6,42,18,Cash
+2025-06-16,2317,2,Liam,Chicken Wings,Starter,3,11,5,33,15,Credit Card
+2025-06-16,2317,2,Liam,Pasta Alfredo,Main Course,2,15,6,30,12,Credit Card
+2025-06-16,2317,2,Liam,Chocolate Lava Cake,Dessert,1,9,4,9,4,Credit Card
+2025-06-16,2317,2,Liam,Caesar Salad,Starter,3,9,4,27,12,Credit Card
+2025-06-16,2317,2,Liam,Margherita Pizza,Main Course,1,14,6,14,6,Credit Card
+2025-06-16,2317,2,Liam,Margherita Pizza,Main Course,2,14,6,28,12,Credit Card
+2025-06-16,2318,18,Ava,French Fries,Side,2,6,2.5,12,5,Mobile Pay
+2025-06-16,2318,18,Ava,Cheeseburger,Main Course,1,13,6,13,6,Mobile Pay
+2025-06-16,2318,18,Ava,Iced Tea,Beverage,2,3,1,6,2,Mobile Pay
+2025-06-16,2318,18,Ava,Cheeseburger,Main Course,1,13,6,13,6,Mobile Pay
+2025-06-17,2319,3,Lucas,Pasta Alfredo,Main Course,1,15,6,15,6,Cash
+2025-06-17,2319,3,Lucas,Garlic Bread,Starter,1,7,3,7,3,Cash
+2025-02-07,2320,5,Ethan,Coffee,Beverage,2,4,1.2,8,2.4,Credit Card
+2025-02-07,2320,5,Ethan,Grilled Salmon,Main Course,2,20,10,40,20,Credit Card
+2025-02-07,2320,5,Ethan,Pepperoni Pizza,Main Course,1,16,7,16,7,Credit Card
+2025-02-07,2320,5,Ethan,Iced Tea,Beverage,3,3,1,9,3,Credit Card
+2025-02-07,2320,5,Ethan,Margherita Pizza,Main Course,3,14,6,42,18,Credit Card
+2025-05-31,2321,17,Emma,Garlic Bread,Starter,2,7,3,14,6,Mobile Pay
+2025-05-31,2321,17,Emma,Pepperoni Pizza,Main Course,2,16,7,32,14,Mobile Pay
+2025-05-31,2321,17,Emma,Tiramisu,Dessert,1,8,3.5,8,3.5,Mobile Pay
+2025-05-31,2321,17,Emma,French Fries,Side,3,6,2.5,18,7.5,Mobile Pay
+2025-05-31,2321,17,Emma,Tiramisu,Dessert,2,8,3.5,16,7,Mobile Pay
+2025-05-31,2321,17,Emma,Margherita Pizza,Main Course,2,14,6,28,12,Mobile Pay
+2025-02-23,2322,5,Ava,Coffee,Beverage,1,4,1.2,4,1.2,Cash
+2025-02-23,2322,5,Ava,Iced Tea,Beverage,1,3,1,3,1,Cash
+2025-06-26,2323,18,Ava,Tiramisu,Dessert,2,8,3.5,16,7,Mobile Pay
+2025-06-26,2323,18,Ava,Margherita Pizza,Main Course,1,14,6,14,6,Mobile Pay
+2025-06-26,2323,18,Ava,Pepperoni Pizza,Main Course,1,16,7,16,7,Mobile Pay
+2025-06-26,2323,18,Ava,Pepperoni Pizza,Main Course,2,16,7,32,14,Mobile Pay
+2025-06-26,2323,18,Ava,Garlic Bread,Starter,1,7,3,7,3,Mobile Pay
+2025-03-15,2324,14,Lucas,Garlic Bread,Starter,1,7,3,7,3,Credit Card
+2025-03-15,2324,14,Lucas,Soft Drink,Beverage,1,3,1,3,1,Credit Card
+2025-02-24,2325,15,Emma,Margherita Pizza,Main Course,3,14,6,42,18,Credit Card
+2025-02-24,2325,15,Emma,Iced Tea,Beverage,2,3,1,6,2,Credit Card
+2025-03-15,2326,1,Ava,Caesar Salad,Starter,2,9,4,18,8,Mobile Pay
+2025-03-15,2326,1,Ava,Garlic Bread,Starter,1,7,3,7,3,Mobile Pay
+2025-03-15,2326,1,Ava,Chocolate Lava Cake,Dessert,2,9,4,18,8,Mobile Pay
+2025-03-15,2326,1,Ava,Margherita Pizza,Main Course,3,14,6,42,18,Mobile Pay
+2025-03-15,2326,1,Ava,Coffee,Beverage,2,4,1.2,8,2.4,Mobile Pay
+2025-05-09,2327,16,Noah,Margherita Pizza,Main Course,1,14,6,14,6,Cash
+2025-05-09,2327,16,Noah,French Fries,Side,1,6,2.5,6,2.5,Cash
+2025-05-09,2327,16,Noah,Chicken Wings,Starter,3,11,5,33,15,Cash
+2025-05-09,2327,16,Noah,Garlic Bread,Starter,2,7,3,14,6,Cash
+2025-04-23,2328,7,Mason,Iced Tea,Beverage,2,3,1,6,2,Cash
+2025-04-23,2328,7,Mason,French Fries,Side,3,6,2.5,18,7.5,Cash
+2025-04-23,2328,7,Mason,Grilled Salmon,Main Course,1,20,10,20,10,Cash
+2025-04-23,2328,7,Mason,Garlic Bread,Starter,1,7,3,7,3,Cash
+2025-06-20,2329,5,Olivia,French Fries,Side,1,6,2.5,6,2.5,Credit Card
+2025-06-20,2329,5,Olivia,Tiramisu,Dessert,1,8,3.5,8,3.5,Credit Card
+2025-06-20,2329,5,Olivia,Soft Drink,Beverage,2,3,1,6,2,Credit Card
+2025-06-20,2329,5,Olivia,Pepperoni Pizza,Main Course,1,16,7,16,7,Credit Card
+2025-06-15,2330,11,Ava,Chicken Wings,Starter,2,11,5,22,10,Credit Card
+2025-06-15,2330,11,Ava,French Fries,Side,3,6,2.5,18,7.5,Credit Card
+2025-06-15,2330,11,Ava,French Fries,Side,1,6,2.5,6,2.5,Credit Card
+2025-06-15,2330,11,Ava,Iced Tea,Beverage,1,3,1,3,1,Credit Card
+2025-06-15,2330,11,Ava,Chicken Wings,Starter,2,11,5,22,10,Credit Card
+2025-04-01,2331,20,Liam,Pasta Alfredo,Main Course,2,15,6,30,12,Credit Card
+2025-04-01,2331,20,Liam,Chocolate Lava Cake,Dessert,3,9,4,27,12,Credit Card
+2025-04-01,2331,20,Liam,Caesar Salad,Starter,3,9,4,27,12,Credit Card
+2025-04-01,2331,20,Liam,Chocolate Lava Cake,Dessert,2,9,4,18,8,Credit Card
+2025-04-01,2331,20,Liam,Tiramisu,Dessert,2,8,3.5,16,7,Credit Card
+2025-02-16,2332,10,Liam,Chocolate Lava Cake,Dessert,3,9,4,27,12,Credit Card
+2025-02-16,2332,10,Liam,Coffee,Beverage,3,4,1.2,12,3.6,Credit Card
+2025-02-16,2332,10,Liam,Chocolate Lava Cake,Dessert,1,9,4,9,4,Credit Card
+2025-02-16,2332,10,Liam,Coffee,Beverage,1,4,1.2,4,1.2,Credit Card
+2025-02-16,2332,10,Liam,Caesar Salad,Starter,2,9,4,18,8,Credit Card
+2025-05-03,2333,17,Sophia,Garlic Bread,Starter,1,7,3,7,3,Mobile Pay
+2025-05-03,2333,17,Sophia,Caesar Salad,Starter,1,9,4,9,4,Mobile Pay
+2025-03-24,2334,19,Ava,Pasta Alfredo,Main Course,3,15,6,45,18,Cash
+2025-03-24,2334,19,Ava,Grilled Salmon,Main Course,1,20,10,20,10,Cash
+2025-03-24,2334,19,Ava,Coffee,Beverage,1,4,1.2,4,1.2,Cash
+2025-01-06,2335,5,Olivia,Cheeseburger,Main Course,1,13,6,13,6,Credit Card
+2025-01-06,2335,5,Olivia,Margherita Pizza,Main Course,2,14,6,28,12,Credit Card
+2025-01-06,2335,5,Olivia,Chicken Wings,Starter,2,11,5,22,10,Credit Card
+2025-01-06,2335,5,Olivia,Soft Drink,Beverage,3,3,1,9,3,Credit Card
+2025-01-06,2335,5,Olivia,Chocolate Lava Cake,Dessert,2,9,4,18,8,Credit Card
+2025-01-06,2335,5,Olivia,Chicken Wings,Starter,2,11,5,22,10,Credit Card
+2025-04-03,2336,20,Emma,Garlic Bread,Starter,2,7,3,14,6,Credit Card
+2025-04-03,2336,20,Emma,Margherita Pizza,Main Course,1,14,6,14,6,Credit Card
+2025-04-03,2336,20,Emma,Garlic Bread,Starter,2,7,3,14,6,Credit Card
+2025-05-24,2337,2,Liam,Chocolate Lava Cake,Dessert,2,9,4,18,8,Credit Card
+2025-05-24,2337,2,Liam,Coffee,Beverage,2,4,1.2,8,2.4,Credit Card
+2025-05-24,2337,2,Liam,Margherita Pizza,Main Course,1,14,6,14,6,Credit Card
+2025-05-24,2337,2,Liam,Chicken Wings,Starter,3,11,5,33,15,Credit Card
+2025-05-15,2338,1,Lucas,Coffee,Beverage,2,4,1.2,8,2.4,Debit Card
+2025-05-15,2338,1,Lucas,Caesar Salad,Starter,2,9,4,18,8,Debit Card
+2025-05-15,2338,1,Lucas,Iced Tea,Beverage,1,3,1,3,1,Debit Card
+2025-04-26,2339,10,Ethan,Grilled Salmon,Main Course,2,20,10,40,20,Debit Card
+2025-04-26,2339,10,Ethan,Grilled Salmon,Main Course,1,20,10,20,10,Debit Card
+2025-04-26,2339,10,Ethan,Grilled Salmon,Main Course,3,20,10,60,30,Debit Card
+2025-04-26,2339,10,Ethan,Soft Drink,Beverage,1,3,1,3,1,Debit Card
+2025-04-26,2339,10,Ethan,Soft Drink,Beverage,3,3,1,9,3,Debit Card
+2025-04-26,2339,10,Ethan,Caesar Salad,Starter,1,9,4,9,4,Debit Card
+2025-02-28,2340,6,Ethan,Cheeseburger,Main Course,1,13,6,13,6,Debit Card
+2025-02-28,2340,6,Ethan,Pepperoni Pizza,Main Course,1,16,7,16,7,Debit Card
+2025-02-28,2340,6,Ethan,Garlic Bread,Starter,2,7,3,14,6,Debit Card
+2025-02-02,2341,19,Mason,Pepperoni Pizza,Main Course,1,16,7,16,7,Debit Card
+2025-02-02,2341,19,Mason,Margherita Pizza,Main Course,2,14,6,28,12,Debit Card
+2025-02-02,2341,19,Mason,Garlic Bread,Starter,2,7,3,14,6,Debit Card
+2025-02-02,2341,19,Mason,Pepperoni Pizza,Main Course,3,16,7,48,21,Debit Card
+2025-02-02,2341,19,Mason,Grilled Salmon,Main Course,2,20,10,40,20,Debit Card
+2025-06-15,2342,23,Lucas,Chocolate Lava Cake,Dessert,2,9,4,18,8,Credit Card
+2025-06-15,2342,23,Lucas,Garlic Bread,Starter,2,7,3,14,6,Credit Card
+2025-06-15,2342,23,Lucas,Margherita Pizza,Main Course,3,14,6,42,18,Credit Card
+2025-06-15,2342,23,Lucas,Pasta Alfredo,Main Course,2,15,6,30,12,Credit Card
+2025-04-14,2343,14,Sophia,Garlic Bread,Starter,2,7,3,14,6,Debit Card
+2025-04-14,2343,14,Sophia,Coffee,Beverage,3,4,1.2,12,3.6,Debit Card
+2025-04-14,2343,14,Sophia,Tiramisu,Dessert,2,8,3.5,16,7,Debit Card
+2025-04-14,2343,14,Sophia,French Fries,Side,3,6,2.5,18,7.5,Debit Card
+2025-03-03,2344,22,Liam,Garlic Bread,Starter,3,7,3,21,9,Credit Card
+2025-03-03,2344,22,Liam,Soft Drink,Beverage,2,3,1,6,2,Credit Card
+2025-03-03,2344,22,Liam,Garlic Bread,Starter,3,7,3,21,9,Credit Card
+2025-04-14,2345,10,Emma,Tiramisu,Dessert,1,8,3.5,8,3.5,Credit Card
+2025-04-14,2345,10,Emma,Caesar Salad,Starter,1,9,4,9,4,Credit Card
+2025-04-14,2345,10,Emma,Iced Tea,Beverage,2,3,1,6,2,Credit Card
+2025-04-14,2345,10,Emma,Margherita Pizza,Main Course,2,14,6,28,12,Credit Card
+2025-04-14,2345,10,Emma,Iced Tea,Beverage,1,3,1,3,1,Credit Card
+2025-04-14,2345,10,Emma,Pasta Alfredo,Main Course,2,15,6,30,12,Credit Card
+2025-03-02,2346,9,Lucas,Chicken Wings,Starter,3,11,5,33,15,Mobile Pay
+2025-03-02,2346,9,Lucas,Pasta Alfredo,Main Course,2,15,6,30,12,Mobile Pay
+2025-03-02,2346,9,Lucas,Iced Tea,Beverage,2,3,1,6,2,Mobile Pay
+2025-06-17,2347,5,Ava,Soft Drink,Beverage,1,3,1,3,1,Debit Card
+2025-06-17,2347,5,Ava,Pasta Alfredo,Main Course,1,15,6,15,6,Debit Card
+2025-06-17,2347,5,Ava,Coffee,Beverage,3,4,1.2,12,3.6,Debit Card
+2025-01-16,2348,24,Ava,Pepperoni Pizza,Main Course,3,16,7,48,21,Credit Card
+2025-01-16,2348,24,Ava,Grilled Salmon,Main Course,3,20,10,60,30,Credit Card
+2025-01-16,2348,24,Ava,Caesar Salad,Starter,2,9,4,18,8,Credit Card
+2025-01-16,2348,24,Ava,Soft Drink,Beverage,1,3,1,3,1,Credit Card
+2025-02-23,2349,3,Lucas,Pasta Alfredo,Main Course,3,15,6,45,18,Debit Card
+2025-02-23,2349,3,Lucas,Chocolate Lava Cake,Dessert,1,9,4,9,4,Debit Card
+2025-02-23,2349,3,Lucas,Caesar Salad,Starter,3,9,4,27,12,Debit Card
+2025-02-23,2349,3,Lucas,Iced Tea,Beverage,2,3,1,6,2,Debit Card
+2025-02-23,2349,3,Lucas,Caesar Salad,Starter,1,9,4,9,4,Debit Card
+2025-02-23,2349,3,Lucas,Soft Drink,Beverage,2,3,1,6,2,Debit Card
+2025-06-02,2350,4,Ethan,Chocolate Lava Cake,Dessert,2,9,4,18,8,Debit Card
+2025-06-02,2350,4,Ethan,Margherita Pizza,Main Course,3,14,6,42,18,Debit Card
+2025-06-02,2350,4,Ethan,Tiramisu,Dessert,3,8,3.5,24,10.5,Debit Card
