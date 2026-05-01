@@ -3,7 +3,7 @@
 # AI-Powered Restaurant Data Analysis & Financial Query Workflow (Dify)
 
 ## Overview
-This project showcases an AI-driven workflow built using Dify that intelligently processes user queries across multiple categories including dataset analysis financial queries and knowledge-based questions for a restaurant.
+This project showcases an AI-driven Assistant workflow built using Dify that intelligently processes user queries across multiple categories including dataset analysis financial queries and knowledge-based questions for a restaurant.
 The workflow dynamically routes user inputs through different pipelines using LLMs document processing and retrieval-augmented generation to deliver accurate and business-friendly insights.
 ---
 
